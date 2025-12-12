@@ -1,0 +1,30 @@
+# Building a Robust Election Data Scraper for PoliteiaDB
+
+**Date:** December 12, 2025
+**Project:** PoliteiaDB - Region Metropolitan Election Scraper
+
+## The Challenge
+
+Our objective was to extract granular election results for the "Alcaldes" (Mayors) 2024 election from Emol.com, specifically targeting the 52 communes of the Metropolitan Region (RM). The data needed to be formatted into relational CSV tables compatible with the Politeia database schema.
+
+The primary technical hurdle was the website's architecture. It is a Single Page Application (SPA) where changing the URL hash (e.g., `#!a2758`) often failed to trigger a full data refresh in a headless browser environment. This resulted in a "stale data" bug where the default results (Santiago) were repeatedly scraped for every commune, leading to duplicate or zeroed-out vote counts (e.g., Alhué appearing with 0 votes or Santiago's numbers).
+
+## The Solution
+
+To overcome these SPA limitations, we engineered a persistent and robust scraping strategy using Python and Playwright:
+
+1.  **Click-Based Navigation:** Instead of relying on URL manipulation, we simulated actual user interactions by programmatically clicking the specific `<li>` elements in the sidebar for each commune. This forced the application to trigger its internal update logic.
+
+2.  **Strict State Verification:** We implemented a "trust but verify" mechanism. After triggering a navigation event, the scraper waits explicitly for the commune's name to appear in the main results header (`.res-box-content h3`). If the header text doesn't match the target commune, the scraper waits or retries, ensuring we never extract data from the wrong page.
+
+3.  **Clean-Slate Reloads:** For maximum reliability, we introduced an `about:blank` navigation step between iterations. This clears the browser's DOM state completely, preventing any localized variables or ghost elements from the previous commune from contaminating the new load.
+
+## The Outcome
+
+The final script (`scrape_to_csv.py`) successfully traversed all 52 communes in the RM. It generated a set of normalized CSV files that maintain relational integrity between entities:
+
+*   **`wp_politeia_election_results.csv`**: captured valid, null, and blank votes with high accuracy (e.g., Alhué correctly showing 5,599 valid votes).
+*   **`wp_politeia_candidacies.csv`**: linked specific candidate performance to their respective elections and parties.
+*   **`wp_politeia_people.csv`** & **`wp_politeia_political_parties.csv`**: created distinct entity records with generated foreign keys.
+
+This dataset now provides a clean, structured foundation for the PoliteiaDB analysis of the Metropolitan Region's electoral landscape.

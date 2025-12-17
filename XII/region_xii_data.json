@@ -1,0 +1,339 @@
+[
+  {
+    "commune": "Punta Arenas",
+    "candidates": [
+      {
+        "name": "Javiera Calvo",
+        "party": "PSC - Partido Social Cristiano e Independientes",
+        "votes": 5316,
+        "percentage": 6.49,
+        "elected": false
+      },
+      {
+        "name": "Verónica Aguilar",
+        "party": "IND (  PR ) - Contigo Chile Mejor",
+        "votes": 24953,
+        "percentage": 30.46,
+        "elected": false
+      },
+      {
+        "name": "Claudio Radonich",
+        "party": "RN - Chile Vamos",
+        "votes": 51641,
+        "percentage": 63.05,
+        "elected": true
+      }
+    ],
+    "stats": {
+      "valid_votes": 81910,
+      "blank_votes": 4579,
+      "null_votes": 7147,
+      "total_votes": 93636,
+      "participation_rate": 77.08
+    }
+  },
+  {
+    "commune": "Laguna Blanca",
+    "candidates": [
+      {
+        "name": "Fernando Ojeda",
+        "party": "PS - Contigo Chile Mejor",
+        "votes": 265,
+        "percentage": 42.67,
+        "elected": true
+      },
+      {
+        "name": "Jaime Arteaga",
+        "party": "IND (  EVO ) - Chile Vamos",
+        "votes": 232,
+        "percentage": 37.36,
+        "elected": false
+      },
+      {
+        "name": "Carlos Fajardo",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 124,
+        "percentage": 19.97,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 621,
+      "blank_votes": 13,
+      "null_votes": 12,
+      "total_votes": 646,
+      "participation_rate": 78.88
+    }
+  },
+  {
+    "commune": "Río Verde",
+    "candidates": [
+      {
+        "name": "Jorge Espinoza",
+        "party": "IND (  PS ) - Contigo Chile Mejor",
+        "votes": 69,
+        "percentage": 12.95,
+        "elected": false
+      },
+      {
+        "name": "Sabina Ballesteros",
+        "party": "UDI - Chile Vamos",
+        "votes": 211,
+        "percentage": 39.59,
+        "elected": false
+      },
+      {
+        "name": "Tatiana Vásquez",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 253,
+        "percentage": 47.47,
+        "elected": true
+      }
+    ],
+    "stats": {
+      "valid_votes": 533,
+      "blank_votes": 5,
+      "null_votes": 4,
+      "total_votes": 542,
+      "participation_rate": 75.49
+    }
+  },
+  {
+    "commune": "San Gregorio",
+    "candidates": [
+      {
+        "name": "Jeannette Andrade",
+        "party": "DC - Contigo Chile Mejor",
+        "votes": 132,
+        "percentage": 32.12,
+        "elected": true
+      },
+      {
+        "name": "Alejandro Cárcamo",
+        "party": "IND (  RN ) - Chile Vamos",
+        "votes": 122,
+        "percentage": 29.68,
+        "elected": false
+      },
+      {
+        "name": "Marco Arteaga",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 55,
+        "percentage": 13.38,
+        "elected": false
+      },
+      {
+        "name": "Cristián Godoy",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 102,
+        "percentage": 24.82,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 411,
+      "blank_votes": 4,
+      "null_votes": 10,
+      "total_votes": 425,
+      "participation_rate": 72.4
+    }
+  },
+  {
+    "commune": "Cabo de Hornos y Antártica",
+    "candidates": [
+      {
+        "name": "Patricio Fernández",
+        "party": "DC - Contigo Chile Mejor",
+        "votes": 674,
+        "percentage": 57.22,
+        "elected": true
+      },
+      {
+        "name": "Arturo Storaker",
+        "party": "UDI - Chile Vamos",
+        "votes": 207,
+        "percentage": 17.57,
+        "elected": false
+      },
+      {
+        "name": "Carlos Soto",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 297,
+        "percentage": 25.21,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 1178,
+      "blank_votes": 10,
+      "null_votes": 17,
+      "total_votes": 1205,
+      "participation_rate": 63.52
+    }
+  },
+  {
+    "commune": "Porvenir",
+    "candidates": [
+      {
+        "name": "José Parada",
+        "party": "IND (  PR ) - Contigo Chile Mejor",
+        "votes": 1607,
+        "percentage": 44.08,
+        "elected": true
+      },
+      {
+        "name": "Carlos Soto",
+        "party": "RN - Chile Vamos",
+        "votes": 575,
+        "percentage": 15.77,
+        "elected": false
+      },
+      {
+        "name": "Cristián Andrade",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 1464,
+        "percentage": 40.15,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 3646,
+      "blank_votes": 109,
+      "null_votes": 131,
+      "total_votes": 3886,
+      "participation_rate": 66.86
+    }
+  },
+  {
+    "commune": "Primavera",
+    "candidates": [
+      {
+        "name": "Eduardo Hernández",
+        "party": "IND (  DC ) - Contigo Chile Mejor",
+        "votes": 203,
+        "percentage": 27.51,
+        "elected": false
+      },
+      {
+        "name": "Karina Fernández",
+        "party": "IND (  RN ) - Chile Vamos",
+        "votes": 342,
+        "percentage": 46.34,
+        "elected": true
+      },
+      {
+        "name": "Carlos Hurtado",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 193,
+        "percentage": 26.15,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 738,
+      "blank_votes": 12,
+      "null_votes": 9,
+      "total_votes": 759,
+      "participation_rate": 61.51
+    }
+  },
+  {
+    "commune": "Timaukel",
+    "candidates": [
+      {
+        "name": "Luis Barría",
+        "party": "IND (  UDI ) - Chile Vamos",
+        "votes": 329,
+        "percentage": 55.2,
+        "elected": true
+      },
+      {
+        "name": "Fernando Callahan",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 267,
+        "percentage": 44.8,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 596,
+      "blank_votes": 14,
+      "null_votes": 10,
+      "total_votes": 620,
+      "participation_rate": 68.74
+    }
+  },
+  {
+    "commune": "Natales",
+    "candidates": [
+      {
+        "name": "Marcelo Contreras",
+        "party": "DC - Contigo Chile Mejor",
+        "votes": 2646,
+        "percentage": 17.68,
+        "elected": false
+      },
+      {
+        "name": "Liber Lazo",
+        "party": "REP - Republicanos e Independientes",
+        "votes": 888,
+        "percentage": 5.93,
+        "elected": false
+      },
+      {
+        "name": "Ana Mayorga",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 9437,
+        "percentage": 63.06,
+        "elected": true
+      },
+      {
+        "name": "Verónica Pérez",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 1993,
+        "percentage": 13.32,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 14964,
+      "blank_votes": 623,
+      "null_votes": 1134,
+      "total_votes": 16721,
+      "participation_rate": 70.24
+    }
+  },
+  {
+    "commune": "Torres del Paine",
+    "candidates": [
+      {
+        "name": "Amaru Rogel",
+        "party": "PC - Contigo Chile Mejor",
+        "votes": 11,
+        "percentage": 1.06,
+        "elected": false
+      },
+      {
+        "name": "Anahí Cárdenas",
+        "party": "IND (  UDI ) - Chile Vamos",
+        "votes": 665,
+        "percentage": 64.25,
+        "elected": true
+      },
+      {
+        "name": "Víctor Hugo Mansilla",
+        "party": "IND - Independiente fuera de pacto",
+        "votes": 359,
+        "percentage": 34.69,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 1035,
+      "blank_votes": 20,
+      "null_votes": 10,
+      "total_votes": 1065,
+      "participation_rate": 81.36
+    }
+  }
+]

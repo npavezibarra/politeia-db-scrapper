@@ -1,0 +1,834 @@
+[
+  {
+    "region_id": "XV",
+    "region_name": "Región de Arica y Parinacota",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 15077,
+        "percentage": 17.78
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 25120,
+        "percentage": 29.62
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 8423,
+        "percentage": 9.93
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 6194,
+        "percentage": 7.3
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 983,
+        "percentage": 1.16
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4703,
+        "percentage": 5.55
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 24296,
+        "percentage": 28.65
+      }
+    ],
+    "stats": {
+      "valid_votes": 84796,
+      "total_votes": 85884
+    }
+  },
+  {
+    "region_id": "I",
+    "region_name": "Región de Tarapacá",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 19976,
+        "percentage": 18.31
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 33273,
+        "percentage": 30.49
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 9440,
+        "percentage": 8.65
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 8354,
+        "percentage": 7.66
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1349,
+        "percentage": 1.24
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 6874,
+        "percentage": 6.3
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 29859,
+        "percentage": 27.36
+      }
+    ],
+    "stats": {
+      "valid_votes": 109125,
+      "total_votes": 110489
+    }
+  },
+  {
+    "region_id": "II",
+    "region_name": "Región de Antofagasta",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 41490,
+        "percentage": 20.61
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 42252,
+        "percentage": 20.99
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 17552,
+        "percentage": 8.72
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 14728,
+        "percentage": 7.32
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 2562,
+        "percentage": 1.27
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 14434,
+        "percentage": 7.17
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 68296,
+        "percentage": 33.93
+      }
+    ],
+    "stats": {
+      "valid_votes": 201314,
+      "total_votes": 203717
+    }
+  },
+  {
+    "region_id": "III",
+    "region_name": "Región de Atacama",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 20418,
+        "percentage": 19.24
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 19015,
+        "percentage": 17.92
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 27497,
+        "percentage": 25.91
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 7097,
+        "percentage": 6.69
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1360,
+        "percentage": 1.28
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5313,
+        "percentage": 5.01
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 25409,
+        "percentage": 23.95
+      }
+    ],
+    "stats": {
+      "valid_votes": 106109,
+      "total_votes": 107215
+    }
+  },
+  {
+    "region_id": "IV",
+    "region_name": "Región de Coquimbo",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 68334,
+        "percentage": 25.93
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 56998,
+        "percentage": 21.63
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 35991,
+        "percentage": 13.66
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 27403,
+        "percentage": 10.4
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 3735,
+        "percentage": 1.42
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 18781,
+        "percentage": 7.13
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 52328,
+        "percentage": 19.85
+      }
+    ],
+    "stats": {
+      "valid_votes": 263570,
+      "total_votes": 267037
+    }
+  },
+  {
+    "region_id": "V",
+    "region_name": "Región de Valparaíso",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 223266,
+        "percentage": 28.12
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 211838,
+        "percentage": 26.68
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 81841,
+        "percentage": 10.31
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 95862,
+        "percentage": 12.07
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 13234,
+        "percentage": 1.67
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 63806,
+        "percentage": 8.04
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 104129,
+        "percentage": 13.11
+      }
+    ],
+    "stats": {
+      "valid_votes": 793976,
+      "total_votes": 803090
+    }
+  },
+  {
+    "region_id": "RM",
+    "region_name": "Región Metropolitana",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 892358,
+        "percentage": 31.02
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 721187,
+        "percentage": 25.07
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 294881,
+        "percentage": 10.25
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 439837,
+        "percentage": 15.29
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 51130,
+        "percentage": 1.78
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 256730,
+        "percentage": 8.92
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 220568,
+        "percentage": 7.67
+      }
+    ],
+    "stats": {
+      "valid_votes": 2876691,
+      "total_votes": 2907120
+    }
+  },
+  {
+    "region_id": "VI",
+    "region_name": "Región de O'Higgins",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 87821,
+        "percentage": 24.17
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 92323,
+        "percentage": 25.41
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 48264,
+        "percentage": 13.28
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 50297,
+        "percentage": 13.84
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 4061,
+        "percentage": 1.12
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 28293,
+        "percentage": 7.79
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 52319,
+        "percentage": 14.4
+      }
+    ],
+    "stats": {
+      "valid_votes": 363378,
+      "total_votes": 368970
+    }
+  },
+  {
+    "region_id": "VII",
+    "region_name": "Región del Maule",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 78976,
+        "percentage": 19.58
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 127037,
+        "percentage": 31.49
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 56255,
+        "percentage": 13.95
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 54914,
+        "percentage": 13.61
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 3765,
+        "percentage": 0.93
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 27423,
+        "percentage": 6.8
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 55007,
+        "percentage": 13.64
+      }
+    ],
+    "stats": {
+      "valid_votes": 403377,
+      "total_votes": 409515
+    }
+  },
+  {
+    "region_id": "XVI",
+    "region_name": "Región de Ñuble",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 31684,
+        "percentage": 16.6
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 69888,
+        "percentage": 36.61
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 28434,
+        "percentage": 14.89
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 24591,
+        "percentage": 12.88
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1699,
+        "percentage": 0.89
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 10488,
+        "percentage": 5.49
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 24135,
+        "percentage": 12.64
+      }
+    ],
+    "stats": {
+      "valid_votes": 190919,
+      "total_votes": 193985
+    }
+  },
+  {
+    "region_id": "VIII",
+    "region_name": "Región del Biobío",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 117286,
+        "percentage": 19.17
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 199305,
+        "percentage": 32.57
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 72925,
+        "percentage": 11.92
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 62987,
+        "percentage": 10.29
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 7291,
+        "percentage": 1.19
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 40100,
+        "percentage": 6.55
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 112024,
+        "percentage": 18.31
+      }
+    ],
+    "stats": {
+      "valid_votes": 611918,
+      "total_votes": 620399
+    }
+  },
+  {
+    "region_id": "IX",
+    "region_name": "Región de la Araucanía",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 65294,
+        "percentage": 16.58
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 165991,
+        "percentage": 42.16
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 48730,
+        "percentage": 12.38
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 40950,
+        "percentage": 10.4
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 4079,
+        "percentage": 1.04
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 21810,
+        "percentage": 5.54
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 46868,
+        "percentage": 11.9
+      }
+    ],
+    "stats": {
+      "valid_votes": 393722,
+      "total_votes": 400171
+    }
+  },
+  {
+    "region_id": "XIV",
+    "region_name": "Región de Los Ríos",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 36976,
+        "percentage": 23.16
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 52916,
+        "percentage": 33.15
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 21796,
+        "percentage": 13.65
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 16277,
+        "percentage": 10.2
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 2054,
+        "percentage": 1.29
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 8691,
+        "percentage": 5.44
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 20912,
+        "percentage": 13.1
+      }
+    ],
+    "stats": {
+      "valid_votes": 159622,
+      "total_votes": 162285
+    }
+  },
+  {
+    "region_id": "X",
+    "region_name": "Región de Los Lagos",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 66568,
+        "percentage": 20.43
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 105754,
+        "percentage": 32.46
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 47939,
+        "percentage": 14.72
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 35547,
+        "percentage": 10.91
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 4015,
+        "percentage": 1.23
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 17548,
+        "percentage": 5.39
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 48389,
+        "percentage": 14.85
+      }
+    ],
+    "stats": {
+      "valid_votes": 325760,
+      "total_votes": 330965
+    }
+  },
+  {
+    "region_id": "XI",
+    "region_name": "Región de Aysén",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 9975,
+        "percentage": 24.99
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 11761,
+        "percentage": 29.47
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 6580,
+        "percentage": 16.49
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 3921,
+        "percentage": 9.83
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 508,
+        "percentage": 1.27
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2017,
+        "percentage": 5.05
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 5146,
+        "percentage": 12.89
+      }
+    ],
+    "stats": {
+      "valid_votes": 39908,
+      "total_votes": 40683
+    }
+  },
+  {
+    "region_id": "XII",
+    "region_name": "Región de Magallanes",
+    "candidates": [
+      {
+        "candidate": "Gabriel Boric",
+        "party": "Convergencia Social - Apruebo Dignidad",
+        "votes": 21137,
+        "percentage": 30.6
+      },
+      {
+        "candidate": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 19292,
+        "percentage": 27.93
+      },
+      {
+        "candidate": "Yasna Provoste",
+        "party": "Democracia Cristiana - Nuevo Pacto Social",
+        "votes": 6854,
+        "percentage": 9.92
+      },
+      {
+        "candidate": "Sebastián Sichel",
+        "party": "Independiente - Chile Vamos",
+        "votes": 5760,
+        "percentage": 8.34
+      },
+      {
+        "candidate": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 668,
+        "percentage": 0.97
+      },
+      {
+        "candidate": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 6645,
+        "percentage": 9.62
+      },
+      {
+        "candidate": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 8721,
+        "percentage": 12.63
+      }
+    ],
+    "stats": {
+      "valid_votes": 69077,
+      "total_votes": 70029
+    }
+  }
+]

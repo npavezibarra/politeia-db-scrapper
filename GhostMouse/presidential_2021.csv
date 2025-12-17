@@ -1,0 +1,113 @@
+Region ID,Region Name,Candidate,Party,Votes,Percentage,Total Valid Votes,Total Regional Votes
+XV,Región de Arica y Parinacota,Gabriel Boric,Convergencia Social - Apruebo Dignidad,15077,17.78,84796,85884
+XV,Región de Arica y Parinacota,José Antonio Kast,Partido Republicano,25120,29.62,84796,85884
+XV,Región de Arica y Parinacota,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,8423,9.93,84796,85884
+XV,Región de Arica y Parinacota,Sebastián Sichel,Independiente - Chile Vamos,6194,7.3,84796,85884
+XV,Región de Arica y Parinacota,Eduardo Artés,Unión Patriótica,983,1.16,84796,85884
+XV,Región de Arica y Parinacota,Marco Enríquez-Ominami,Partido Progresista,4703,5.55,84796,85884
+XV,Región de Arica y Parinacota,Franco Parisi,Partido de la Gente,24296,28.65,84796,85884
+I,Región de Tarapacá,Gabriel Boric,Convergencia Social - Apruebo Dignidad,19976,18.31,109125,110489
+I,Región de Tarapacá,José Antonio Kast,Partido Republicano,33273,30.49,109125,110489
+I,Región de Tarapacá,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,9440,8.65,109125,110489
+I,Región de Tarapacá,Sebastián Sichel,Independiente - Chile Vamos,8354,7.66,109125,110489
+I,Región de Tarapacá,Eduardo Artés,Unión Patriótica,1349,1.24,109125,110489
+I,Región de Tarapacá,Marco Enríquez-Ominami,Partido Progresista,6874,6.3,109125,110489
+I,Región de Tarapacá,Franco Parisi,Partido de la Gente,29859,27.36,109125,110489
+II,Región de Antofagasta,Gabriel Boric,Convergencia Social - Apruebo Dignidad,41490,20.61,201314,203717
+II,Región de Antofagasta,José Antonio Kast,Partido Republicano,42252,20.99,201314,203717
+II,Región de Antofagasta,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,17552,8.72,201314,203717
+II,Región de Antofagasta,Sebastián Sichel,Independiente - Chile Vamos,14728,7.32,201314,203717
+II,Región de Antofagasta,Eduardo Artés,Unión Patriótica,2562,1.27,201314,203717
+II,Región de Antofagasta,Marco Enríquez-Ominami,Partido Progresista,14434,7.17,201314,203717
+II,Región de Antofagasta,Franco Parisi,Partido de la Gente,68296,33.93,201314,203717
+III,Región de Atacama,Gabriel Boric,Convergencia Social - Apruebo Dignidad,20418,19.24,106109,107215
+III,Región de Atacama,José Antonio Kast,Partido Republicano,19015,17.92,106109,107215
+III,Región de Atacama,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,27497,25.91,106109,107215
+III,Región de Atacama,Sebastián Sichel,Independiente - Chile Vamos,7097,6.69,106109,107215
+III,Región de Atacama,Eduardo Artés,Unión Patriótica,1360,1.28,106109,107215
+III,Región de Atacama,Marco Enríquez-Ominami,Partido Progresista,5313,5.01,106109,107215
+III,Región de Atacama,Franco Parisi,Partido de la Gente,25409,23.95,106109,107215
+IV,Región de Coquimbo,Gabriel Boric,Convergencia Social - Apruebo Dignidad,68334,25.93,263570,267037
+IV,Región de Coquimbo,José Antonio Kast,Partido Republicano,56998,21.63,263570,267037
+IV,Región de Coquimbo,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,35991,13.66,263570,267037
+IV,Región de Coquimbo,Sebastián Sichel,Independiente - Chile Vamos,27403,10.4,263570,267037
+IV,Región de Coquimbo,Eduardo Artés,Unión Patriótica,3735,1.42,263570,267037
+IV,Región de Coquimbo,Marco Enríquez-Ominami,Partido Progresista,18781,7.13,263570,267037
+IV,Región de Coquimbo,Franco Parisi,Partido de la Gente,52328,19.85,263570,267037
+V,Región de Valparaíso,Gabriel Boric,Convergencia Social - Apruebo Dignidad,223266,28.12,793976,803090
+V,Región de Valparaíso,José Antonio Kast,Partido Republicano,211838,26.68,793976,803090
+V,Región de Valparaíso,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,81841,10.31,793976,803090
+V,Región de Valparaíso,Sebastián Sichel,Independiente - Chile Vamos,95862,12.07,793976,803090
+V,Región de Valparaíso,Eduardo Artés,Unión Patriótica,13234,1.67,793976,803090
+V,Región de Valparaíso,Marco Enríquez-Ominami,Partido Progresista,63806,8.04,793976,803090
+V,Región de Valparaíso,Franco Parisi,Partido de la Gente,104129,13.11,793976,803090
+RM,Región Metropolitana,Gabriel Boric,Convergencia Social - Apruebo Dignidad,892358,31.02,2876691,2907120
+RM,Región Metropolitana,José Antonio Kast,Partido Republicano,721187,25.07,2876691,2907120
+RM,Región Metropolitana,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,294881,10.25,2876691,2907120
+RM,Región Metropolitana,Sebastián Sichel,Independiente - Chile Vamos,439837,15.29,2876691,2907120
+RM,Región Metropolitana,Eduardo Artés,Unión Patriótica,51130,1.78,2876691,2907120
+RM,Región Metropolitana,Marco Enríquez-Ominami,Partido Progresista,256730,8.92,2876691,2907120
+RM,Región Metropolitana,Franco Parisi,Partido de la Gente,220568,7.67,2876691,2907120
+VI,Región de O'Higgins,Gabriel Boric,Convergencia Social - Apruebo Dignidad,87821,24.17,363378,368970
+VI,Región de O'Higgins,José Antonio Kast,Partido Republicano,92323,25.41,363378,368970
+VI,Región de O'Higgins,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,48264,13.28,363378,368970
+VI,Región de O'Higgins,Sebastián Sichel,Independiente - Chile Vamos,50297,13.84,363378,368970
+VI,Región de O'Higgins,Eduardo Artés,Unión Patriótica,4061,1.12,363378,368970
+VI,Región de O'Higgins,Marco Enríquez-Ominami,Partido Progresista,28293,7.79,363378,368970
+VI,Región de O'Higgins,Franco Parisi,Partido de la Gente,52319,14.4,363378,368970
+VII,Región del Maule,Gabriel Boric,Convergencia Social - Apruebo Dignidad,78976,19.58,403377,409515
+VII,Región del Maule,José Antonio Kast,Partido Republicano,127037,31.49,403377,409515
+VII,Región del Maule,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,56255,13.95,403377,409515
+VII,Región del Maule,Sebastián Sichel,Independiente - Chile Vamos,54914,13.61,403377,409515
+VII,Región del Maule,Eduardo Artés,Unión Patriótica,3765,0.93,403377,409515
+VII,Región del Maule,Marco Enríquez-Ominami,Partido Progresista,27423,6.8,403377,409515
+VII,Región del Maule,Franco Parisi,Partido de la Gente,55007,13.64,403377,409515
+XVI,Región de Ñuble,Gabriel Boric,Convergencia Social - Apruebo Dignidad,31684,16.6,190919,193985
+XVI,Región de Ñuble,José Antonio Kast,Partido Republicano,69888,36.61,190919,193985
+XVI,Región de Ñuble,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,28434,14.89,190919,193985
+XVI,Región de Ñuble,Sebastián Sichel,Independiente - Chile Vamos,24591,12.88,190919,193985
+XVI,Región de Ñuble,Eduardo Artés,Unión Patriótica,1699,0.89,190919,193985
+XVI,Región de Ñuble,Marco Enríquez-Ominami,Partido Progresista,10488,5.49,190919,193985
+XVI,Región de Ñuble,Franco Parisi,Partido de la Gente,24135,12.64,190919,193985
+VIII,Región del Biobío,Gabriel Boric,Convergencia Social - Apruebo Dignidad,117286,19.17,611918,620399
+VIII,Región del Biobío,José Antonio Kast,Partido Republicano,199305,32.57,611918,620399
+VIII,Región del Biobío,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,72925,11.92,611918,620399
+VIII,Región del Biobío,Sebastián Sichel,Independiente - Chile Vamos,62987,10.29,611918,620399
+VIII,Región del Biobío,Eduardo Artés,Unión Patriótica,7291,1.19,611918,620399
+VIII,Región del Biobío,Marco Enríquez-Ominami,Partido Progresista,40100,6.55,611918,620399
+VIII,Región del Biobío,Franco Parisi,Partido de la Gente,112024,18.31,611918,620399
+IX,Región de la Araucanía,Gabriel Boric,Convergencia Social - Apruebo Dignidad,65294,16.58,393722,400171
+IX,Región de la Araucanía,José Antonio Kast,Partido Republicano,165991,42.16,393722,400171
+IX,Región de la Araucanía,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,48730,12.38,393722,400171
+IX,Región de la Araucanía,Sebastián Sichel,Independiente - Chile Vamos,40950,10.4,393722,400171
+IX,Región de la Araucanía,Eduardo Artés,Unión Patriótica,4079,1.04,393722,400171
+IX,Región de la Araucanía,Marco Enríquez-Ominami,Partido Progresista,21810,5.54,393722,400171
+IX,Región de la Araucanía,Franco Parisi,Partido de la Gente,46868,11.9,393722,400171
+XIV,Región de Los Ríos,Gabriel Boric,Convergencia Social - Apruebo Dignidad,36976,23.16,159622,162285
+XIV,Región de Los Ríos,José Antonio Kast,Partido Republicano,52916,33.15,159622,162285
+XIV,Región de Los Ríos,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,21796,13.65,159622,162285
+XIV,Región de Los Ríos,Sebastián Sichel,Independiente - Chile Vamos,16277,10.2,159622,162285
+XIV,Región de Los Ríos,Eduardo Artés,Unión Patriótica,2054,1.29,159622,162285
+XIV,Región de Los Ríos,Marco Enríquez-Ominami,Partido Progresista,8691,5.44,159622,162285
+XIV,Región de Los Ríos,Franco Parisi,Partido de la Gente,20912,13.1,159622,162285
+X,Región de Los Lagos,Gabriel Boric,Convergencia Social - Apruebo Dignidad,66568,20.43,325760,330965
+X,Región de Los Lagos,José Antonio Kast,Partido Republicano,105754,32.46,325760,330965
+X,Región de Los Lagos,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,47939,14.72,325760,330965
+X,Región de Los Lagos,Sebastián Sichel,Independiente - Chile Vamos,35547,10.91,325760,330965
+X,Región de Los Lagos,Eduardo Artés,Unión Patriótica,4015,1.23,325760,330965
+X,Región de Los Lagos,Marco Enríquez-Ominami,Partido Progresista,17548,5.39,325760,330965
+X,Región de Los Lagos,Franco Parisi,Partido de la Gente,48389,14.85,325760,330965
+XI,Región de Aysén,Gabriel Boric,Convergencia Social - Apruebo Dignidad,9975,24.99,39908,40683
+XI,Región de Aysén,José Antonio Kast,Partido Republicano,11761,29.47,39908,40683
+XI,Región de Aysén,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,6580,16.49,39908,40683
+XI,Región de Aysén,Sebastián Sichel,Independiente - Chile Vamos,3921,9.83,39908,40683
+XI,Región de Aysén,Eduardo Artés,Unión Patriótica,508,1.27,39908,40683
+XI,Región de Aysén,Marco Enríquez-Ominami,Partido Progresista,2017,5.05,39908,40683
+XI,Región de Aysén,Franco Parisi,Partido de la Gente,5146,12.89,39908,40683
+XII,Región de Magallanes,Gabriel Boric,Convergencia Social - Apruebo Dignidad,21137,30.6,69077,70029
+XII,Región de Magallanes,José Antonio Kast,Partido Republicano,19292,27.93,69077,70029
+XII,Región de Magallanes,Yasna Provoste,Democracia Cristiana - Nuevo Pacto Social,6854,9.92,69077,70029
+XII,Región de Magallanes,Sebastián Sichel,Independiente - Chile Vamos,5760,8.34,69077,70029
+XII,Región de Magallanes,Eduardo Artés,Unión Patriótica,668,0.97,69077,70029
+XII,Región de Magallanes,Marco Enríquez-Ominami,Partido Progresista,6645,9.62,69077,70029
+XII,Región de Magallanes,Franco Parisi,Partido de la Gente,8721,12.63,69077,70029

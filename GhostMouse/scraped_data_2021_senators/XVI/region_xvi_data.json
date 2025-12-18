@@ -1,0 +1,92 @@
+[
+  {
+    "commune": "Región de Ñuble",
+    "candidates": [
+      {
+        "name": "Jacqueline van Rysselberghe",
+        "party": "Unión Demócrata Independiente",
+        "votes": 21771,
+        "percentage": 12.45,
+        "elected": false
+      },
+      {
+        "name": "Gustavo Sanhueza",
+        "party": "Unión Demócrata Independiente",
+        "votes": 30320,
+        "percentage": 17.33,
+        "elected": true
+      },
+      {
+        "name": "Victoria Ortiz",
+        "party": "Partido Regionalista Independiente Demócrata",
+        "votes": 4267,
+        "percentage": 2.44,
+        "elected": false
+      },
+      {
+        "name": "David Keller",
+        "party": "Partido de la Gente",
+        "votes": 8304,
+        "percentage": 4.75,
+        "elected": false
+      },
+      {
+        "name": "Katherine Quilodrán",
+        "party": "Partido de la Gente",
+        "votes": 6856,
+        "percentage": 3.92,
+        "elected": false
+      },
+      {
+        "name": "Loreto Carvajal",
+        "party": "Partido por la Democracia",
+        "votes": 43188,
+        "percentage": 24.69,
+        "elected": true
+      },
+      {
+        "name": "Jorge Sabag",
+        "party": "Democracia Cristiana",
+        "votes": 32766,
+        "percentage": 18.73,
+        "elected": false
+      },
+      {
+        "name": "Juan Manuel Rivas",
+        "party": "Partido Ecologista Verde",
+        "votes": 4663,
+        "percentage": 2.67,
+        "elected": false
+      },
+      {
+        "name": "Eliana Sanhueza",
+        "party": "Partido Ecologista Verde",
+        "votes": 5000,
+        "percentage": 2.86,
+        "elected": false
+      },
+      {
+        "name": "Samuel Jiménez",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 5518,
+        "percentage": 3.15,
+        "elected": false
+      },
+      {
+        "name": "Cecilia Palacios",
+        "party": "Partido Comunista",
+        "votes": 12281,
+        "percentage": 7.02,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 174934,
+      "blank_votes": 11080,
+      "null_votes": 7881,
+      "total_votes": 193895,
+      "participation_rate": 44.99
+    },
+    "escanos": 2
+  }
+]

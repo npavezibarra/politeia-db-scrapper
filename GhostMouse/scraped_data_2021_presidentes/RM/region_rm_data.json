@@ -1,0 +1,3174 @@
+[
+  {
+    "commune": "Alhué",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 636,
+        "percentage": 25.62,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 467,
+        "percentage": 18.82,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 520,
+        "percentage": 20.95,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 320,
+        "percentage": 12.89,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 31,
+        "percentage": 1.25,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 151,
+        "percentage": 6.08,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 357,
+        "percentage": 14.38,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 2482,
+      "blank_votes": 16,
+      "null_votes": 19,
+      "total_votes": 2517,
+      "participation_rate": 41.14
+    }
+  },
+  {
+    "commune": "Buin",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 10500,
+        "percentage": 26.58,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 11636,
+        "percentage": 29.46,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 3809,
+        "percentage": 9.64,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4609,
+        "percentage": 11.67,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 513,
+        "percentage": 1.3,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3199,
+        "percentage": 8.1,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 5237,
+        "percentage": 13.26,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 39503,
+      "blank_votes": 132,
+      "null_votes": 481,
+      "total_votes": 40116,
+      "participation_rate": 51.42
+    }
+  },
+  {
+    "commune": "Calera de Tango",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 2586,
+        "percentage": 24.62,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 3596,
+        "percentage": 34.23,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1067,
+        "percentage": 10.16,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 1693,
+        "percentage": 16.12,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 115,
+        "percentage": 1.09,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 693,
+        "percentage": 6.6,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 754,
+        "percentage": 7.18,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 10504,
+      "blank_votes": 40,
+      "null_votes": 59,
+      "total_votes": 10603,
+      "participation_rate": 47.07
+    }
+  },
+  {
+    "commune": "Cerrillos",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 9613,
+        "percentage": 31.3,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 7195,
+        "percentage": 23.43,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 2983,
+        "percentage": 9.71,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 3802,
+        "percentage": 12.38,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 597,
+        "percentage": 1.94,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3530,
+        "percentage": 11.49,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 2993,
+        "percentage": 9.75,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 30713,
+      "blank_votes": 84,
+      "null_votes": 227,
+      "total_votes": 31024,
+      "participation_rate": 46.61
+    }
+  },
+  {
+    "commune": "Cerro Navia",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 15350,
+        "percentage": 31.67,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8802,
+        "percentage": 18.16,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5813,
+        "percentage": 11.99,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4615,
+        "percentage": 9.52,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1471,
+        "percentage": 3.04,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 7016,
+        "percentage": 14.48,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 5398,
+        "percentage": 11.14,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 48465,
+      "blank_votes": 222,
+      "null_votes": 360,
+      "total_votes": 49047,
+      "participation_rate": 43.14
+    }
+  },
+  {
+    "commune": "Colina",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 7968,
+        "percentage": 17.1,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 18091,
+        "percentage": 38.83,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 3522,
+        "percentage": 7.56,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 9621,
+        "percentage": 20.65,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 385,
+        "percentage": 0.83,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3011,
+        "percentage": 6.46,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3995,
+        "percentage": 8.57,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 46593,
+      "blank_votes": 177,
+      "null_votes": 297,
+      "total_votes": 47067,
+      "participation_rate": 50.04
+    }
+  },
+  {
+    "commune": "Conchalí",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 17619,
+        "percentage": 33.21,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 10987,
+        "percentage": 20.71,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5973,
+        "percentage": 11.26,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 6007,
+        "percentage": 11.32,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1146,
+        "percentage": 2.16,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 6538,
+        "percentage": 12.32,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 4786,
+        "percentage": 9.02,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 53056,
+      "blank_votes": 194,
+      "null_votes": 410,
+      "total_votes": 53660,
+      "participation_rate": 46.14
+    }
+  },
+  {
+    "commune": "Curacaví",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 3875,
+        "percentage": 28.83,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 3664,
+        "percentage": 27.26,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1661,
+        "percentage": 12.36,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 1831,
+        "percentage": 13.62,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 168,
+        "percentage": 1.25,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1002,
+        "percentage": 7.46,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1238,
+        "percentage": 9.21,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 13439,
+      "blank_votes": 75,
+      "null_votes": 95,
+      "total_votes": 13609,
+      "participation_rate": 50.13
+    }
+  },
+  {
+    "commune": "El Bosque",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 18771,
+        "percentage": 30.74,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 13458,
+        "percentage": 22.04,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 7127,
+        "percentage": 11.67,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 6539,
+        "percentage": 10.71,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1207,
+        "percentage": 1.98,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 7744,
+        "percentage": 12.68,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 6210,
+        "percentage": 10.17,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 61056,
+      "blank_votes": 203,
+      "null_votes": 484,
+      "total_votes": 61743,
+      "participation_rate": 45.41
+    }
+  },
+  {
+    "commune": "El Monte",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 3596,
+        "percentage": 26.97,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 3130,
+        "percentage": 23.48,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1764,
+        "percentage": 13.23,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 1458,
+        "percentage": 10.94,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 204,
+        "percentage": 1.53,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1289,
+        "percentage": 9.67,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1890,
+        "percentage": 14.18,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 13331,
+      "blank_votes": 83,
+      "null_votes": 149,
+      "total_votes": 13563,
+      "participation_rate": 48.22
+    }
+  },
+  {
+    "commune": "Estación Central",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 18230,
+        "percentage": 34.63,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 12049,
+        "percentage": 22.89,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5736,
+        "percentage": 10.9,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 6345,
+        "percentage": 12.05,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1163,
+        "percentage": 2.21,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5491,
+        "percentage": 10.43,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3632,
+        "percentage": 6.9,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 52646,
+      "blank_votes": 194,
+      "null_votes": 591,
+      "total_votes": 53431,
+      "participation_rate": 42.53
+    }
+  },
+  {
+    "commune": "Huechuraba",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 11004,
+        "percentage": 27.66,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 9452,
+        "percentage": 23.76,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4524,
+        "percentage": 11.37,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 6760,
+        "percentage": 16.99,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 771,
+        "percentage": 1.94,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4067,
+        "percentage": 10.22,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3205,
+        "percentage": 8.06,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 39783,
+      "blank_votes": 158,
+      "null_votes": 308,
+      "total_votes": 40249,
+      "participation_rate": 53.97
+    }
+  },
+  {
+    "commune": "Independencia",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 11569,
+        "percentage": 34.46,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8327,
+        "percentage": 24.8,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 3408,
+        "percentage": 10.15,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4646,
+        "percentage": 13.84,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 749,
+        "percentage": 2.23,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2806,
+        "percentage": 8.36,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 2072,
+        "percentage": 6.17,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 33577,
+      "blank_votes": 97,
+      "null_votes": 208,
+      "total_votes": 33882,
+      "participation_rate": 41.06
+    }
+  },
+  {
+    "commune": "Isla de Maipo",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 3466,
+        "percentage": 25.22,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 3638,
+        "percentage": 26.47,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1827,
+        "percentage": 13.29,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 1743,
+        "percentage": 12.68,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 199,
+        "percentage": 1.45,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1367,
+        "percentage": 9.95,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1505,
+        "percentage": 10.95,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 13745,
+      "blank_votes": 68,
+      "null_votes": 98,
+      "total_votes": 13911,
+      "participation_rate": 48.63
+    }
+  },
+  {
+    "commune": "La Cisterna",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 13048,
+        "percentage": 33.24,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 9830,
+        "percentage": 25.04,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4101,
+        "percentage": 10.45,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 5577,
+        "percentage": 14.21,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 733,
+        "percentage": 1.87,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3410,
+        "percentage": 8.69,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 2560,
+        "percentage": 6.52,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 39259,
+      "blank_votes": 78,
+      "null_votes": 308,
+      "total_votes": 39645,
+      "participation_rate": 48.39
+    }
+  },
+  {
+    "commune": "La Florida",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 58319,
+        "percentage": 36.44,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 33562,
+        "percentage": 20.97,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 16861,
+        "percentage": 10.54,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 23602,
+        "percentage": 14.75,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 3003,
+        "percentage": 1.88,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 13959,
+        "percentage": 8.72,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 10735,
+        "percentage": 6.71,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 160041,
+      "blank_votes": 431,
+      "null_votes": 1081,
+      "total_votes": 161553,
+      "participation_rate": 52.32
+    }
+  },
+  {
+    "commune": "La Granja",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 14887,
+        "percentage": 33.18,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8105,
+        "percentage": 18.06,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5911,
+        "percentage": 13.17,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4561,
+        "percentage": 10.16,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1002,
+        "percentage": 2.23,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5644,
+        "percentage": 12.58,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 4760,
+        "percentage": 10.61,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 44870,
+      "blank_votes": 133,
+      "null_votes": 366,
+      "total_votes": 45369,
+      "participation_rate": 44.4
+    }
+  },
+  {
+    "commune": "La Pintana",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 16023,
+        "percentage": 29.24,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 9018,
+        "percentage": 16.46,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 7554,
+        "percentage": 13.79,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4585,
+        "percentage": 8.37,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1227,
+        "percentage": 2.24,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 9024,
+        "percentage": 16.47,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 7364,
+        "percentage": 13.44,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 54795,
+      "blank_votes": 275,
+      "null_votes": 561,
+      "total_votes": 55631,
+      "participation_rate": 40.31
+    }
+  },
+  {
+    "commune": "La Reina",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 15721,
+        "percentage": 27.9,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 17036,
+        "percentage": 30.23,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 6293,
+        "percentage": 11.17,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 13724,
+        "percentage": 24.36,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 574,
+        "percentage": 1.02,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1779,
+        "percentage": 3.16,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1222,
+        "percentage": 2.17,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 56349,
+      "blank_votes": 151,
+      "null_votes": 289,
+      "total_votes": 56789,
+      "participation_rate": 62.45
+    }
+  },
+  {
+    "commune": "Lampa",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 7393,
+        "percentage": 25.68,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 7308,
+        "percentage": 25.38,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 2752,
+        "percentage": 9.56,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 3676,
+        "percentage": 12.77,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 456,
+        "percentage": 1.58,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3219,
+        "percentage": 11.18,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3985,
+        "percentage": 13.84,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 28789,
+      "blank_votes": 121,
+      "null_votes": 212,
+      "total_votes": 29122,
+      "participation_rate": 46.35
+    }
+  },
+  {
+    "commune": "Las Condes",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 22145,
+        "percentage": 12.98,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 78095,
+        "percentage": 45.76,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 12286,
+        "percentage": 7.2,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 53138,
+        "percentage": 31.14,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 598,
+        "percentage": 0.35,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2556,
+        "percentage": 1.5,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1826,
+        "percentage": 1.07,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 170644,
+      "blank_votes": 343,
+      "null_votes": 716,
+      "total_votes": 171703,
+      "participation_rate": 63.27
+    }
+  },
+  {
+    "commune": "Lo Barnechea",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 4617,
+        "percentage": 8.43,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 28309,
+        "percentage": 51.68,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 2570,
+        "percentage": 4.69,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 16644,
+        "percentage": 30.38,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 200,
+        "percentage": 0.37,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1249,
+        "percentage": 2.28,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1189,
+        "percentage": 2.17,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 54778,
+      "blank_votes": 102,
+      "null_votes": 164,
+      "total_votes": 55044,
+      "participation_rate": 65.33
+    }
+  },
+  {
+    "commune": "Lo Espejo",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 12552,
+        "percentage": 33.35,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 6382,
+        "percentage": 16.96,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4562,
+        "percentage": 12.12,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 3233,
+        "percentage": 8.59,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 923,
+        "percentage": 2.45,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5690,
+        "percentage": 15.12,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 4296,
+        "percentage": 11.41,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 37638,
+      "blank_votes": 164,
+      "null_votes": 298,
+      "total_votes": 38100,
+      "participation_rate": 42.9
+    }
+  },
+  {
+    "commune": "Lo Prado",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 12923,
+        "percentage": 32.51,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 7554,
+        "percentage": 19.0,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4785,
+        "percentage": 12.04,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4434,
+        "percentage": 11.15,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 910,
+        "percentage": 2.29,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5272,
+        "percentage": 13.26,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3878,
+        "percentage": 9.75,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 39756,
+      "blank_votes": 166,
+      "null_votes": 449,
+      "total_votes": 40371,
+      "participation_rate": 46.46
+    }
+  },
+  {
+    "commune": "Macul",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 19448,
+        "percentage": 35.94,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 11867,
+        "percentage": 21.93,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5997,
+        "percentage": 11.08,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 8406,
+        "percentage": 15.54,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 963,
+        "percentage": 1.78,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4320,
+        "percentage": 7.98,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3105,
+        "percentage": 5.74,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 54106,
+      "blank_votes": 139,
+      "null_votes": 350,
+      "total_votes": 54595,
+      "participation_rate": 54.57
+    }
+  },
+  {
+    "commune": "Maipú",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 75646,
+        "percentage": 36.65,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 42681,
+        "percentage": 20.68,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 19369,
+        "percentage": 9.38,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 25947,
+        "percentage": 12.57,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 4173,
+        "percentage": 2.02,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 20921,
+        "percentage": 10.14,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 17651,
+        "percentage": 8.55,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 206388,
+      "blank_votes": 600,
+      "null_votes": 1631,
+      "total_votes": 208619,
+      "participation_rate": 53.15
+    }
+  },
+  {
+    "commune": "María Pinto",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 1507,
+        "percentage": 27.31,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 1503,
+        "percentage": 27.23,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 760,
+        "percentage": 13.77,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 793,
+        "percentage": 14.37,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 52,
+        "percentage": 0.94,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 419,
+        "percentage": 7.59,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 485,
+        "percentage": 8.79,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 5519,
+      "blank_votes": 32,
+      "null_votes": 30,
+      "total_votes": 5581,
+      "participation_rate": 47.05
+    }
+  },
+  {
+    "commune": "Melipilla",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 10619,
+        "percentage": 25.92,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 12235,
+        "percentage": 29.87,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4810,
+        "percentage": 11.74,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 5546,
+        "percentage": 13.54,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 590,
+        "percentage": 1.44,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2810,
+        "percentage": 6.86,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 4351,
+        "percentage": 10.62,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 40961,
+      "blank_votes": 190,
+      "null_votes": 327,
+      "total_votes": 41478,
+      "participation_rate": 42.3
+    }
+  },
+  {
+    "commune": "Ñuñoa",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 48166,
+        "percentage": 39.44,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 29425,
+        "percentage": 24.09,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 12316,
+        "percentage": 10.08,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 23081,
+        "percentage": 18.9,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1822,
+        "percentage": 1.49,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4561,
+        "percentage": 3.73,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 2753,
+        "percentage": 2.25,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 122124,
+      "blank_votes": 276,
+      "null_votes": 601,
+      "total_votes": 123001,
+      "participation_rate": 61.81
+    }
+  },
+  {
+    "commune": "Padre Hurtado",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 7120,
+        "percentage": 28.75,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 5178,
+        "percentage": 20.91,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 2626,
+        "percentage": 10.6,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 2775,
+        "percentage": 11.2,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 418,
+        "percentage": 1.69,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3123,
+        "percentage": 12.61,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3527,
+        "percentage": 14.24,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 24767,
+      "blank_votes": 87,
+      "null_votes": 194,
+      "total_votes": 25048,
+      "participation_rate": 53.65
+    }
+  },
+  {
+    "commune": "Paine",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 7020,
+        "percentage": 26.52,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8428,
+        "percentage": 31.84,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 2699,
+        "percentage": 10.2,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 2743,
+        "percentage": 10.36,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 266,
+        "percentage": 1.01,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2099,
+        "percentage": 7.93,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3212,
+        "percentage": 12.14,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 26467,
+      "blank_votes": 125,
+      "null_votes": 210,
+      "total_votes": 26802,
+      "participation_rate": 48.65
+    }
+  },
+  {
+    "commune": "Pedro Aguirre Cerda",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 17001,
+        "percentage": 38.0,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 7558,
+        "percentage": 16.89,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5048,
+        "percentage": 11.28,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4531,
+        "percentage": 10.13,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1402,
+        "percentage": 3.13,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5661,
+        "percentage": 12.65,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3541,
+        "percentage": 7.91,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 44742,
+      "blank_votes": 288,
+      "null_votes": 400,
+      "total_votes": 45430,
+      "participation_rate": 49.66
+    }
+  },
+  {
+    "commune": "Peñaflor",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 10887,
+        "percentage": 29.41,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 7694,
+        "percentage": 20.79,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4238,
+        "percentage": 11.45,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4229,
+        "percentage": 11.43,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 599,
+        "percentage": 1.62,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4264,
+        "percentage": 11.52,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 5103,
+        "percentage": 13.79,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 37014,
+      "blank_votes": 132,
+      "null_votes": 290,
+      "total_votes": 37436,
+      "participation_rate": 50.99
+    }
+  },
+  {
+    "commune": "Peñalolén",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 30779,
+        "percentage": 32.43,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 19448,
+        "percentage": 20.49,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 11182,
+        "percentage": 11.78,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 14947,
+        "percentage": 15.75,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1664,
+        "percentage": 1.75,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 9789,
+        "percentage": 10.31,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 7114,
+        "percentage": 7.49,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 94923,
+      "blank_votes": 343,
+      "null_votes": 677,
+      "total_votes": 95943,
+      "participation_rate": 50.33
+    }
+  },
+  {
+    "commune": "Pirque",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 3587,
+        "percentage": 28.2,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 3614,
+        "percentage": 28.41,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1504,
+        "percentage": 11.82,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 1992,
+        "percentage": 15.66,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 151,
+        "percentage": 1.19,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 1025,
+        "percentage": 8.06,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 849,
+        "percentage": 6.67,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 12722,
+      "blank_votes": 44,
+      "null_votes": 85,
+      "total_votes": 12851,
+      "participation_rate": 54.67
+    }
+  },
+  {
+    "commune": "Providencia",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 28918,
+        "percentage": 30.22,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 30146,
+        "percentage": 31.51,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 10293,
+        "percentage": 10.76,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 22138,
+        "percentage": 23.14,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 830,
+        "percentage": 0.87,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2059,
+        "percentage": 2.15,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 1301,
+        "percentage": 1.36,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 95685,
+      "blank_votes": 196,
+      "null_votes": 414,
+      "total_votes": 96295,
+      "participation_rate": 56.35
+    }
+  },
+  {
+    "commune": "Pudahuel",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 26748,
+        "percentage": 33.31,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 15261,
+        "percentage": 19.0,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 8275,
+        "percentage": 10.31,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 8815,
+        "percentage": 10.98,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 2028,
+        "percentage": 2.53,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 10563,
+        "percentage": 13.15,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 8610,
+        "percentage": 10.72,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 80300,
+      "blank_votes": 259,
+      "null_votes": 647,
+      "total_votes": 81206,
+      "participation_rate": 47.82
+    }
+  },
+  {
+    "commune": "Puente Alto",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 68855,
+        "percentage": 36.24,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 33878,
+        "percentage": 17.83,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 18237,
+        "percentage": 9.6,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 23319,
+        "percentage": 12.27,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 4072,
+        "percentage": 2.14,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 22293,
+        "percentage": 11.73,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 19335,
+        "percentage": 10.18,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 189989,
+      "blank_votes": 546,
+      "null_votes": 1745,
+      "total_votes": 192280,
+      "participation_rate": 47.7
+    }
+  },
+  {
+    "commune": "Quilicura",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 22630,
+        "percentage": 32.84,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 12966,
+        "percentage": 18.82,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 6869,
+        "percentage": 9.97,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 8028,
+        "percentage": 11.65,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1468,
+        "percentage": 2.13,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 8281,
+        "percentage": 12.02,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 8671,
+        "percentage": 12.58,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 68913,
+      "blank_votes": 186,
+      "null_votes": 657,
+      "total_votes": 69756,
+      "participation_rate": 49.2
+    }
+  },
+  {
+    "commune": "Quinta Normal",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 15938,
+        "percentage": 34.95,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 9933,
+        "percentage": 21.78,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4830,
+        "percentage": 10.59,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 5451,
+        "percentage": 11.95,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1068,
+        "percentage": 2.34,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 5075,
+        "percentage": 11.13,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3301,
+        "percentage": 7.24,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 45596,
+      "blank_votes": 128,
+      "null_votes": 362,
+      "total_votes": 46086,
+      "participation_rate": 45.55
+    }
+  },
+  {
+    "commune": "Recoleta",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 21857,
+        "percentage": 35.64,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 13211,
+        "percentage": 21.54,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 6495,
+        "percentage": 10.59,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 7211,
+        "percentage": 11.76,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1547,
+        "percentage": 2.52,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 6375,
+        "percentage": 10.4,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 4627,
+        "percentage": 7.55,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 61323,
+      "blank_votes": 234,
+      "null_votes": 495,
+      "total_votes": 62052,
+      "participation_rate": 44.18
+    }
+  },
+  {
+    "commune": "Renca",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 16061,
+        "percentage": 31.71,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8927,
+        "percentage": 17.63,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5984,
+        "percentage": 11.82,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4860,
+        "percentage": 9.6,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1280,
+        "percentage": 2.53,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 7297,
+        "percentage": 14.41,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 6237,
+        "percentage": 12.31,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 50646,
+      "blank_votes": 186,
+      "null_votes": 570,
+      "total_votes": 51402,
+      "participation_rate": 44.39
+    }
+  },
+  {
+    "commune": "San Bernardo",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 29945,
+        "percentage": 30.69,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 23430,
+        "percentage": 24.01,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 10008,
+        "percentage": 10.26,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 10205,
+        "percentage": 10.46,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1693,
+        "percentage": 1.74,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 11294,
+        "percentage": 11.57,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 11002,
+        "percentage": 11.28,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 97577,
+      "blank_votes": 340,
+      "null_votes": 804,
+      "total_votes": 98721,
+      "participation_rate": 43.19
+    }
+  },
+  {
+    "commune": "San Joaquín",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 14987,
+        "percentage": 38.45,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 6971,
+        "percentage": 17.88,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4406,
+        "percentage": 11.3,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 4379,
+        "percentage": 11.23,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 940,
+        "percentage": 2.41,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4249,
+        "percentage": 10.9,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3048,
+        "percentage": 7.82,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 38980,
+      "blank_votes": 143,
+      "null_votes": 321,
+      "total_votes": 39444,
+      "participation_rate": 48.84
+    }
+  },
+  {
+    "commune": "San José de Maipo",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 2878,
+        "percentage": 36.16,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 1617,
+        "percentage": 20.31,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 1022,
+        "percentage": 12.84,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 940,
+        "percentage": 11.81,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 163,
+        "percentage": 2.05,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 771,
+        "percentage": 9.69,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 569,
+        "percentage": 7.15,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 7960,
+      "blank_votes": 34,
+      "null_votes": 98,
+      "total_votes": 8092,
+      "participation_rate": 50.56
+    }
+  },
+  {
+    "commune": "San Miguel",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 19836,
+        "percentage": 37.63,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 12313,
+        "percentage": 23.36,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 5296,
+        "percentage": 10.05,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 8226,
+        "percentage": 15.61,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 1019,
+        "percentage": 1.93,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 3616,
+        "percentage": 6.86,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 2404,
+        "percentage": 4.56,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 52710,
+      "blank_votes": 100,
+      "null_votes": 289,
+      "total_votes": 53099,
+      "participation_rate": 50.47
+    }
+  },
+  {
+    "commune": "San Pedro",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 671,
+        "percentage": 18.81,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 1332,
+        "percentage": 37.33,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 541,
+        "percentage": 15.16,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 483,
+        "percentage": 13.54,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 34,
+        "percentage": 0.95,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 195,
+        "percentage": 5.47,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 312,
+        "percentage": 8.74,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 3568,
+      "blank_votes": 28,
+      "null_votes": 36,
+      "total_votes": 3632,
+      "participation_rate": 42.35
+    }
+  },
+  {
+    "commune": "San Ramón",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 10640,
+        "percentage": 31.58,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 6372,
+        "percentage": 18.91,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 4060,
+        "percentage": 12.05,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 3470,
+        "percentage": 10.3,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 805,
+        "percentage": 2.39,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4745,
+        "percentage": 14.08,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3597,
+        "percentage": 10.68,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 33689,
+      "blank_votes": 165,
+      "null_votes": 308,
+      "total_votes": 34162,
+      "participation_rate": 42.68
+    }
+  },
+  {
+    "commune": "Santiago",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 53470,
+        "percentage": 39.59,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 34443,
+        "percentage": 25.5,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 12576,
+        "percentage": 9.31,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 18641,
+        "percentage": 13.8,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 3062,
+        "percentage": 2.27,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 7131,
+        "percentage": 5.28,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 5746,
+        "percentage": 4.25,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 135069,
+      "blank_votes": 400,
+      "null_votes": 912,
+      "total_votes": 136381,
+      "participation_rate": 40.22
+    }
+  },
+  {
+    "commune": "Talagante",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 8298,
+        "percentage": 26.72,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 8109,
+        "percentage": 26.11,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 3668,
+        "percentage": 11.81,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 3722,
+        "percentage": 11.98,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 460,
+        "percentage": 1.48,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 2996,
+        "percentage": 9.65,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 3808,
+        "percentage": 12.26,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 31061,
+      "blank_votes": 147,
+      "null_votes": 278,
+      "total_votes": 31486,
+      "participation_rate": 53.42
+    }
+  },
+  {
+    "commune": "Tiltil",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 1980,
+        "percentage": 27.84,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 1741,
+        "percentage": 24.48,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 767,
+        "percentage": 10.79,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 906,
+        "percentage": 12.74,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 106,
+        "percentage": 1.49,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 643,
+        "percentage": 9.04,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 968,
+        "percentage": 13.61,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 7111,
+      "blank_votes": 27,
+      "null_votes": 69,
+      "total_votes": 7207,
+      "participation_rate": 48.17
+    }
+  },
+  {
+    "commune": "Vitacura",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 4455,
+        "percentage": 7.31,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 31215,
+        "percentage": 51.2,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 3596,
+        "percentage": 5.9,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 20890,
+        "percentage": 34.26,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 110,
+        "percentage": 0.18,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 449,
+        "percentage": 0.74,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 254,
+        "percentage": 0.42,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 60969,
+      "blank_votes": 109,
+      "null_votes": 208,
+      "total_votes": 61286,
+      "participation_rate": 69.01
+    }
+  }
+]

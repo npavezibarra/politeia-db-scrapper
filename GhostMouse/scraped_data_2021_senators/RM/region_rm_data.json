@@ -1,0 +1,330 @@
+[
+  {
+    "commune": "Región Metropolitana",
+    "candidates": [
+      {
+        "name": "Manuel José Ossandón",
+        "party": "Renovación Nacional",
+        "votes": 279908,
+        "percentage": 10.54,
+        "elected": true
+      },
+      {
+        "name": "Marcela Sabat",
+        "party": "Renovación Nacional",
+        "votes": 109241,
+        "percentage": 4.11,
+        "elected": false
+      },
+      {
+        "name": "Daniela Cabezas",
+        "party": "Unión Demócrata Independiente",
+        "votes": 18917,
+        "percentage": 0.71,
+        "elected": false
+      },
+      {
+        "name": "Carolina Lavín",
+        "party": "Unión Demócrata Independiente",
+        "votes": 18143,
+        "percentage": 0.68,
+        "elected": false
+      },
+      {
+        "name": "Luciano Cruz-Coke",
+        "party": "Evópoli",
+        "votes": 150868,
+        "percentage": 5.68,
+        "elected": true
+      },
+      {
+        "name": "Jaime Mañalich",
+        "party": "Independiente en cupo Evópoli",
+        "votes": 132621,
+        "percentage": 4.99,
+        "elected": false
+      },
+      {
+        "name": "Valeska Oyarce",
+        "party": "Partido de la Gente",
+        "votes": 42968,
+        "percentage": 1.62,
+        "elected": false
+      },
+      {
+        "name": "Erna Pérez",
+        "party": "Partido de la Gente",
+        "votes": 14762,
+        "percentage": 0.56,
+        "elected": false
+      },
+      {
+        "name": "Rodrigo Silva",
+        "party": "Partido de la Gente",
+        "votes": 25699,
+        "percentage": 0.97,
+        "elected": false
+      },
+      {
+        "name": "Rodrigo Díaz",
+        "party": "Partido de la Gente",
+        "votes": 24454,
+        "percentage": 0.92,
+        "elected": false
+      },
+      {
+        "name": "Carolina González",
+        "party": "Partido de la Gente",
+        "votes": 33505,
+        "percentage": 1.26,
+        "elected": false
+      },
+      {
+        "name": "Roberto Cofré",
+        "party": "Partido de la Gente",
+        "votes": 13851,
+        "percentage": 0.52,
+        "elected": false
+      },
+      {
+        "name": "Verónica Pardo",
+        "party": "Independiente en cupo Partido Liberal",
+        "votes": 26151,
+        "percentage": 0.98,
+        "elected": false
+      },
+      {
+        "name": "Eugenio Ortega",
+        "party": "Democracia Cristiana",
+        "votes": 24395,
+        "percentage": 0.92,
+        "elected": false
+      },
+      {
+        "name": "Gabriel Silber",
+        "party": "Democracia Cristiana",
+        "votes": 58716,
+        "percentage": 2.21,
+        "elected": false
+      },
+      {
+        "name": "Paulina Vodanovic",
+        "party": "Partido Socialista",
+        "votes": 71205,
+        "percentage": 2.68,
+        "elected": false
+      },
+      {
+        "name": "Alberto Pizarro",
+        "party": "Partido por la Democracia",
+        "votes": 8642,
+        "percentage": 0.33,
+        "elected": false
+      },
+      {
+        "name": "Natalia Piergentili",
+        "party": "Partido por la Democracia",
+        "votes": 17129,
+        "percentage": 0.64,
+        "elected": false
+      },
+      {
+        "name": "Celeste Jiménez",
+        "party": "Partido Ecologista Verde",
+        "votes": 79928,
+        "percentage": 3.01,
+        "elected": false
+      },
+      {
+        "name": "Patricio Neira",
+        "party": "Partido Ecologista Verde",
+        "votes": 28632,
+        "percentage": 1.08,
+        "elected": false
+      },
+      {
+        "name": "Daiana Squella",
+        "party": "Partido Ecologista Verde",
+        "votes": 23602,
+        "percentage": 0.89,
+        "elected": false
+      },
+      {
+        "name": "Rafael Aravena",
+        "party": "Unión Patriótica",
+        "votes": 13374,
+        "percentage": 0.5,
+        "elected": false
+      },
+      {
+        "name": "Mónica Quilodrán",
+        "party": "Unión Patriótica",
+        "votes": 11628,
+        "percentage": 0.44,
+        "elected": false
+      },
+      {
+        "name": "Varinia Aravena",
+        "party": "Unión Patriótica",
+        "votes": 5749,
+        "percentage": 0.22,
+        "elected": false
+      },
+      {
+        "name": "Paula Cancino",
+        "party": "Partido Igualdad",
+        "votes": 25495,
+        "percentage": 0.96,
+        "elected": false
+      },
+      {
+        "name": "Mariana Gutiérrez",
+        "party": "Partido Igualdad",
+        "votes": 14411,
+        "percentage": 0.54,
+        "elected": false
+      },
+      {
+        "name": "Rodrigo Urzúa",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 15778,
+        "percentage": 0.59,
+        "elected": false
+      },
+      {
+        "name": "Marcelo Rioseco",
+        "party": "Partido Humanista",
+        "votes": 7604,
+        "percentage": 0.29,
+        "elected": false
+      },
+      {
+        "name": "Mercedes Bravo",
+        "party": "Partido Humanista",
+        "votes": 7381,
+        "percentage": 0.28,
+        "elected": false
+      },
+      {
+        "name": "Rojo Edwards",
+        "party": "Partido Republicano",
+        "votes": 249273,
+        "percentage": 9.39,
+        "elected": true
+      },
+      {
+        "name": "María Gatica",
+        "party": "Partido Republicano",
+        "votes": 27562,
+        "percentage": 1.04,
+        "elected": false
+      },
+      {
+        "name": "Álvaro Pezoa",
+        "party": "Partido Republicano",
+        "votes": 18925,
+        "percentage": 0.71,
+        "elected": false
+      },
+      {
+        "name": "Ricardo Ortega",
+        "party": "Partido Republicano",
+        "votes": 16410,
+        "percentage": 0.62,
+        "elected": false
+      },
+      {
+        "name": "Pamela Pizarro",
+        "party": "Independiente en cupo Partido Republicano",
+        "votes": 16015,
+        "percentage": 0.6,
+        "elected": false
+      },
+      {
+        "name": "Beatriz Maturana",
+        "party": "Independiente en cupo Partido Republicano",
+        "votes": 8138,
+        "percentage": 0.31,
+        "elected": false
+      },
+      {
+        "name": "Karina Oliva",
+        "party": "Comunes",
+        "votes": 112730,
+        "percentage": 4.24,
+        "elected": false
+      },
+      {
+        "name": "Gonzalo Martner",
+        "party": "Independiente en cupo Comunes",
+        "votes": 44511,
+        "percentage": 1.68,
+        "elected": false
+      },
+      {
+        "name": "Guillermo Teillier",
+        "party": "Partido Comunista",
+        "votes": 101506,
+        "percentage": 3.82,
+        "elected": false
+      },
+      {
+        "name": "Claudia Pascual",
+        "party": "Partido Comunista",
+        "votes": 139722,
+        "percentage": 5.26,
+        "elected": true
+      },
+      {
+        "name": "Rocío Donoso",
+        "party": "Revolución Democrática",
+        "votes": 53235,
+        "percentage": 2.0,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Depolo",
+        "party": "Revolución Democrática",
+        "votes": 48858,
+        "percentage": 1.84,
+        "elected": false
+      },
+      {
+        "name": "Cristián Contreras",
+        "party": "Centro Unido",
+        "votes": 71019,
+        "percentage": 2.67,
+        "elected": false
+      },
+      {
+        "name": "Fabiola Moya",
+        "party": "Centro Unido",
+        "votes": 28912,
+        "percentage": 1.09,
+        "elected": false
+      },
+      {
+        "name": "Ruth Rojas",
+        "party": "Centro Unido",
+        "votes": 12114,
+        "percentage": 0.46,
+        "elected": false
+      },
+      {
+        "name": "Fabiola Campillai",
+        "party": "Independiente",
+        "votes": 402078,
+        "percentage": 15.14,
+        "elected": true
+      }
+    ],
+    "stats": {
+      "valid_votes": 2655765,
+      "blank_votes": 117659,
+      "null_votes": 130407,
+      "total_votes": 2903831,
+      "participation_rate": 49.54
+    },
+    "escanos": 5
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "commune": "Región de Antofagasta",
+    "candidates": [
+      {
+        "name": "Paulina Núñez",
+        "party": "Renovación Nacional",
+        "votes": 15639,
+        "percentage": 8.35,
+        "elected": true
+      },
+      {
+        "name": "Marco Antonio Díaz",
+        "party": "Renovación Nacional",
+        "votes": 12478,
+        "percentage": 6.66,
+        "elected": false
+      },
+      {
+        "name": "Katherine López",
+        "party": "Unión Demócrata Independiente",
+        "votes": 7837,
+        "percentage": 4.19,
+        "elected": false
+      },
+      {
+        "name": "Daniel Guevara",
+        "party": "Independiente en cupo Unión Demócrata Independiente",
+        "votes": 5241,
+        "percentage": 2.8,
+        "elected": false
+      },
+      {
+        "name": "Paola Debia",
+        "party": "Partido de la Gente",
+        "votes": 12680,
+        "percentage": 6.77,
+        "elected": false
+      },
+      {
+        "name": "Ricardo Vargas",
+        "party": "Partido de la Gente",
+        "votes": 11596,
+        "percentage": 6.19,
+        "elected": false
+      },
+      {
+        "name": "Tamara Gaytán",
+        "party": "Partido de la Gente",
+        "votes": 7826,
+        "percentage": 4.18,
+        "elected": false
+      },
+      {
+        "name": "Galia Aguilera",
+        "party": "Partido de Trabajadores Revolucionarios",
+        "votes": 3470,
+        "percentage": 1.85,
+        "elected": false
+      },
+      {
+        "name": "Domingo Lara",
+        "party": "Partido de Trabajadores Revolucionarios",
+        "votes": 1330,
+        "percentage": 0.71,
+        "elected": false
+      },
+      {
+        "name": "Pedro Araya",
+        "party": "Independiente en cupo Partido por la Democracia",
+        "votes": 24157,
+        "percentage": 12.9,
+        "elected": true
+      },
+      {
+        "name": "Jacqueline Santander",
+        "party": "Partido Socialista",
+        "votes": 1960,
+        "percentage": 1.05,
+        "elected": false
+      },
+      {
+        "name": "Marcela Hernando",
+        "party": "Partido Radical",
+        "votes": 14656,
+        "percentage": 7.83,
+        "elected": false
+      },
+      {
+        "name": "Jeanette Hurtado",
+        "party": "Democracia Cristiana",
+        "votes": 1998,
+        "percentage": 1.07,
+        "elected": false
+      },
+      {
+        "name": "Moisés Ibacache",
+        "party": "Partido Igualdad",
+        "votes": 1619,
+        "percentage": 0.86,
+        "elected": false
+      },
+      {
+        "name": "María Susana Vera",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 2309,
+        "percentage": 1.23,
+        "elected": false
+      },
+      {
+        "name": "Esteban Velásquez",
+        "party": "Federación Regionalista Verde Social",
+        "votes": 39519,
+        "percentage": 21.11,
+        "elected": true
+      },
+      {
+        "name": "Marta Molina",
+        "party": "Federación Regionalista Verde Social",
+        "votes": 3498,
+        "percentage": 1.87,
+        "elected": false
+      },
+      {
+        "name": "Jan Cademartori",
+        "party": "Partido Comunista",
+        "votes": 5743,
+        "percentage": 3.07,
+        "elected": false
+      },
+      {
+        "name": "Iván Ávila",
+        "party": "Revolución Democrática",
+        "votes": 3441,
+        "percentage": 1.84,
+        "elected": false
+      },
+      {
+        "name": "Germán Romagnoli",
+        "party": "Centro Unido",
+        "votes": 2388,
+        "percentage": 1.28,
+        "elected": false
+      },
+      {
+        "name": "César Araya",
+        "party": "Independiente en cupo Centro Unido",
+        "votes": 7836,
+        "percentage": 4.19,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 187221,
+      "blank_votes": 6334,
+      "null_votes": 10254,
+      "total_votes": 203809,
+      "participation_rate": 42.3
+    },
+    "escanos": 3
+  }
+]

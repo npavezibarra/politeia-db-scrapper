@@ -1,0 +1,176 @@
+[
+  {
+    "commune": "Región del Biobío",
+    "candidates": [
+      {
+        "name": "Sebastián Keitel",
+        "party": "Evópoli",
+        "votes": 64261,
+        "percentage": 11.7,
+        "elected": true
+      },
+      {
+        "name": "Katherine Echaiz",
+        "party": "Independiente en cupo Evópoli",
+        "votes": 17181,
+        "percentage": 3.13,
+        "elected": false
+      },
+      {
+        "name": "Enrique van Rysselberghe",
+        "party": "Unión Demócrata Independiente",
+        "votes": 35521,
+        "percentage": 6.47,
+        "elected": true
+      },
+      {
+        "name": "Iván Norambuena",
+        "party": "Unión Demócrata Independiente",
+        "votes": 34818,
+        "percentage": 6.34,
+        "elected": false
+      },
+      {
+        "name": "Darwin Acuña",
+        "party": "Partido de la Gente",
+        "votes": 17489,
+        "percentage": 3.19,
+        "elected": false
+      },
+      {
+        "name": "María Angélica Ojeda",
+        "party": "Partido de la Gente",
+        "votes": 24716,
+        "percentage": 4.5,
+        "elected": false
+      },
+      {
+        "name": "Sandra Neira",
+        "party": "Partido de la Gente",
+        "votes": 14345,
+        "percentage": 2.61,
+        "elected": false
+      },
+      {
+        "name": "Roberto Guzmán",
+        "party": "Partido de la Gente",
+        "votes": 13345,
+        "percentage": 2.43,
+        "elected": false
+      },
+      {
+        "name": "José Pérez",
+        "party": "Partido Radical",
+        "votes": 29709,
+        "percentage": 5.41,
+        "elected": false
+      },
+      {
+        "name": "José Miguel Ortiz",
+        "party": "Democracia Cristiana",
+        "votes": 28099,
+        "percentage": 5.12,
+        "elected": false
+      },
+      {
+        "name": "Gastón Saavedra",
+        "party": "Partido Socialista",
+        "votes": 59046,
+        "percentage": 10.75,
+        "elected": true
+      },
+      {
+        "name": "Pablo Riveros",
+        "party": "Partido Ecologista Verde",
+        "votes": 40382,
+        "percentage": 7.36,
+        "elected": false
+      },
+      {
+        "name": "Zaida Falcés",
+        "party": "Unión Patriótica",
+        "votes": 6354,
+        "percentage": 1.16,
+        "elected": false
+      },
+      {
+        "name": "Esteban Arévalo",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 10622,
+        "percentage": 1.93,
+        "elected": false
+      },
+      {
+        "name": "Antaris Varela",
+        "party": "Partido Conservador Cristiano",
+        "votes": 39146,
+        "percentage": 7.13,
+        "elected": false
+      },
+      {
+        "name": "Tamara González",
+        "party": "Partido Conservador Cristiano",
+        "votes": 13429,
+        "percentage": 2.45,
+        "elected": false
+      },
+      {
+        "name": "Abraham Larrondo",
+        "party": "Independiente en cupo Partido Conservador Cristiano",
+        "votes": 6114,
+        "percentage": 1.11,
+        "elected": false
+      },
+      {
+        "name": "Roberto Francesconi",
+        "party": "Independiente en cupo Partido Conservador Cristiano",
+        "votes": 6624,
+        "percentage": 1.21,
+        "elected": false
+      },
+      {
+        "name": "Daniela Dresdner",
+        "party": "Revolución Democrática",
+        "votes": 37540,
+        "percentage": 6.84,
+        "elected": false
+      },
+      {
+        "name": "Fabio Bogdanic",
+        "party": "Convergencia Social",
+        "votes": 10164,
+        "percentage": 1.85,
+        "elected": false
+      },
+      {
+        "name": "Óscar Menares",
+        "party": "Independiente en cupo Partido Comunista",
+        "votes": 15780,
+        "percentage": 2.87,
+        "elected": false
+      },
+      {
+        "name": "Francisco Córdova",
+        "party": "Independiente en cupo Federación Regionalista Verde Social",
+        "votes": 7962,
+        "percentage": 1.45,
+        "elected": false
+      },
+      {
+        "name": "Angélica San Cristóbal",
+        "party": "Centro Unido",
+        "votes": 16371,
+        "percentage": 2.98,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 549018,
+      "blank_votes": 39371,
+      "null_votes": 31726,
+      "total_votes": 620115,
+      "participation_rate": 46.36
+    },
+    "escanos": 3
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "commune": "Arica",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 14763,
+        "percentage": 18.16,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 24070,
+        "percentage": 29.61,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 7921,
+        "percentage": 9.74,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 6020,
+        "percentage": 7.41,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 952,
+        "percentage": 1.17,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 4536,
+        "percentage": 5.58,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 23034,
+        "percentage": 28.33,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 81296,
+      "blank_votes": 295,
+      "null_votes": 712,
+      "total_votes": 82303,
+      "participation_rate": 45.54
+    }
+  },
+  {
+    "commune": "Camarones",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 111,
+        "percentage": 10.58,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 252,
+        "percentage": 24.02,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 195,
+        "percentage": 18.59,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 57,
+        "percentage": 5.43,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 6,
+        "percentage": 0.57,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 53,
+        "percentage": 5.05,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 375,
+        "percentage": 35.75,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 1049,
+      "blank_votes": 4,
+      "null_votes": 14,
+      "total_votes": 1067,
+      "participation_rate": 33.39
+    }
+  },
+  {
+    "commune": "Putre",
+    "candidates": [
+      {
+        "name": "Gabriel Boric",
+        "party": "Convergencia Social",
+        "votes": 179,
+        "percentage": 9.17,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Kast",
+        "party": "Partido Republicano",
+        "votes": 658,
+        "percentage": 33.71,
+        "elected": false
+      },
+      {
+        "name": "Yasna Provoste",
+        "party": "Democracia Cristiana",
+        "votes": 268,
+        "percentage": 13.73,
+        "elected": false
+      },
+      {
+        "name": "Sebastián Sichel",
+        "party": "Independiente",
+        "votes": 91,
+        "percentage": 4.66,
+        "elected": false
+      },
+      {
+        "name": "Eduardo Artés",
+        "party": "Unión Patriótica",
+        "votes": 20,
+        "percentage": 1.02,
+        "elected": false
+      },
+      {
+        "name": "Marco Enríquez-Ominami",
+        "party": "Partido Progresista",
+        "votes": 88,
+        "percentage": 4.51,
+        "elected": false
+      },
+      {
+        "name": "Franco Parisi",
+        "party": "Partido de la Gente",
+        "votes": 648,
+        "percentage": 33.2,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 1952,
+      "blank_votes": 26,
+      "null_votes": 23,
+      "total_votes": 2001,
+      "participation_rate": 34.81
+    }
+  }
+]

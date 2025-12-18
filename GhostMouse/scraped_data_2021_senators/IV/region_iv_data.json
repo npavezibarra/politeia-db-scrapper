@@ -1,0 +1,120 @@
+[
+  {
+    "commune": "Región de Coquimbo",
+    "candidates": [
+      {
+        "name": "Sergio Gahona",
+        "party": "Unión Demócrata Independiente",
+        "votes": 25716,
+        "percentage": 10.56,
+        "elected": true
+      },
+      {
+        "name": "Alejandra Valdovinos",
+        "party": "Unión Demócrata Independiente",
+        "votes": 11230,
+        "percentage": 4.61,
+        "elected": false
+      },
+      {
+        "name": "Pedro Velásquez",
+        "party": "Independiente en cupo Partido Regionalista Independiente Demócrata",
+        "votes": 14340,
+        "percentage": 5.89,
+        "elected": false
+      },
+      {
+        "name": "Giannina González",
+        "party": "Renovación Nacional",
+        "votes": 14876,
+        "percentage": 6.11,
+        "elected": false
+      },
+      {
+        "name": "Eileen Urqueta",
+        "party": "Partido de la Gente",
+        "votes": 17958,
+        "percentage": 7.37,
+        "elected": false
+      },
+      {
+        "name": "Cristian Astorga",
+        "party": "Partido de la Gente",
+        "votes": 13589,
+        "percentage": 5.58,
+        "elected": false
+      },
+      {
+        "name": "Matías Walker",
+        "party": "Democracia Cristiana",
+        "votes": 26154,
+        "percentage": 10.74,
+        "elected": true
+      },
+      {
+        "name": "Adriana Muñoz",
+        "party": "Partido por la Democracia",
+        "votes": 18851,
+        "percentage": 7.74,
+        "elected": false
+      },
+      {
+        "name": "Caterina Simoncelli",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 4711,
+        "percentage": 1.93,
+        "elected": false
+      },
+      {
+        "name": "Esteban Vilchez",
+        "party": "Independiente en cupo Partido Igualdad",
+        "votes": 2207,
+        "percentage": 0.91,
+        "elected": false
+      },
+      {
+        "name": "Daniel Núñez",
+        "party": "Partido Comunista",
+        "votes": 39379,
+        "percentage": 16.17,
+        "elected": true
+      },
+      {
+        "name": "Marcelo Díaz",
+        "party": "Independiente en cupo Convergencia Social",
+        "votes": 32963,
+        "percentage": 13.53,
+        "elected": false
+      },
+      {
+        "name": "Jeannette Medina",
+        "party": "Independiente en cupo Federación Regionalista Verde Social",
+        "votes": 7942,
+        "percentage": 3.26,
+        "elected": false
+      },
+      {
+        "name": "Edio Cortés",
+        "party": "Comunes",
+        "votes": 1556,
+        "percentage": 0.64,
+        "elected": false
+      },
+      {
+        "name": "Sergio Rojas",
+        "party": "Independiente en cupo Centro Unido",
+        "votes": 12093,
+        "percentage": 4.96,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 243565,
+      "blank_votes": 11785,
+      "null_votes": 11580,
+      "total_votes": 266930,
+      "participation_rate": 42.81
+    },
+    "escanos": 3
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "commune": "Región de Los Lagos",
+    "candidates": [
+      {
+        "name": "Iván Moreira",
+        "party": "Unión Demócrata Independiente",
+        "votes": 31314,
+        "percentage": 10.59,
+        "elected": true
+      },
+      {
+        "name": "Javier Hernández",
+        "party": "Unión Demócrata Independiente",
+        "votes": 22844,
+        "percentage": 7.73,
+        "elected": false
+      },
+      {
+        "name": "Alejandro Santana",
+        "party": "Renovación Nacional",
+        "votes": 24951,
+        "percentage": 8.44,
+        "elected": false
+      },
+      {
+        "name": "Carlos Kuschel",
+        "party": "Renovación Nacional",
+        "votes": 28697,
+        "percentage": 9.7,
+        "elected": true
+      },
+      {
+        "name": "Cristián Álvarez",
+        "party": "Partido de la Gente",
+        "votes": 8573,
+        "percentage": 2.9,
+        "elected": false
+      },
+      {
+        "name": "Carolina Figueroa",
+        "party": "Partido de la Gente",
+        "votes": 8926,
+        "percentage": 3.02,
+        "elected": false
+      },
+      {
+        "name": "Angélica Henríquez",
+        "party": "Partido de la Gente",
+        "votes": 5577,
+        "percentage": 1.89,
+        "elected": false
+      },
+      {
+        "name": "Christian Cid",
+        "party": "Partido de la Gente",
+        "votes": 6037,
+        "percentage": 2.04,
+        "elected": false
+      },
+      {
+        "name": "Rabindranath Quinteros",
+        "party": "Partido Socialista",
+        "votes": 32390,
+        "percentage": 10.95,
+        "elected": false
+      },
+      {
+        "name": "Fidel Espinoza",
+        "party": "Partido Socialista",
+        "votes": 53661,
+        "percentage": 18.15,
+        "elected": true
+      },
+      {
+        "name": "Pamela Bertín",
+        "party": "Democracia Cristiana",
+        "votes": 9889,
+        "percentage": 3.34,
+        "elected": false
+      },
+      {
+        "name": "Jorge Keim",
+        "party": "Partido Liberal",
+        "votes": 1878,
+        "percentage": 0.64,
+        "elected": false
+      },
+      {
+        "name": "Mauricio Martínez",
+        "party": "Partido Ecologista Verde",
+        "votes": 16597,
+        "percentage": 5.61,
+        "elected": false
+      },
+      {
+        "name": "Orietta Llauca",
+        "party": "Independiente en cupo Comunes",
+        "votes": 13322,
+        "percentage": 4.51,
+        "elected": false
+      },
+      {
+        "name": "Fernanda Hederra",
+        "party": "Revolución Democrática",
+        "votes": 7962,
+        "percentage": 2.69,
+        "elected": false
+      },
+      {
+        "name": "Paola Venegas",
+        "party": "Partido Comunista",
+        "votes": 11789,
+        "percentage": 3.99,
+        "elected": false
+      },
+      {
+        "name": "Natalia Ravanales",
+        "party": "Independiente en cupo Centro Unido",
+        "votes": 7683,
+        "percentage": 2.6,
+        "elected": false
+      },
+      {
+        "name": "Fabiola Moya",
+        "party": "Independiente en cupo Partido Nacional Ciudadano",
+        "votes": 3622,
+        "percentage": 1.22,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 295712,
+      "blank_votes": 20806,
+      "null_votes": 13982,
+      "total_votes": 330500,
+      "participation_rate": 44.28
+    },
+    "escanos": 3
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "commune": "Región de O'Higgins",
+    "candidates": [
+      {
+        "name": "Javier Macaya",
+        "party": "Unión Demócrata Independiente",
+        "votes": 51022,
+        "percentage": 15.09,
+        "elected": true
+      },
+      {
+        "name": "Ramón Barros",
+        "party": "Unión Demócrata Independiente",
+        "votes": 19758,
+        "percentage": 5.84,
+        "elected": false
+      },
+      {
+        "name": "Virginia Troncoso",
+        "party": "Independiente en cupo Renovación Nacional",
+        "votes": 12365,
+        "percentage": 3.66,
+        "elected": false
+      },
+      {
+        "name": "Macarena Matas",
+        "party": "Renovación Nacional",
+        "votes": 9562,
+        "percentage": 2.83,
+        "elected": false
+      },
+      {
+        "name": "Claudio Mella",
+        "party": "Partido de la Gente",
+        "votes": 12841,
+        "percentage": 3.8,
+        "elected": false
+      },
+      {
+        "name": "Mario Leyton",
+        "party": "Partido de la Gente",
+        "votes": 7936,
+        "percentage": 2.35,
+        "elected": false
+      },
+      {
+        "name": "Ruth Alvarado",
+        "party": "Partido de la Gente",
+        "votes": 9270,
+        "percentage": 2.74,
+        "elected": false
+      },
+      {
+        "name": "Juan Luis Castro",
+        "party": "Partido Socialista",
+        "votes": 51226,
+        "percentage": 15.15,
+        "elected": true
+      },
+      {
+        "name": "Marcia Barrera",
+        "party": "Democracia Cristiana",
+        "votes": 7477,
+        "percentage": 2.21,
+        "elected": false
+      },
+      {
+        "name": "José Antonio Gómez",
+        "party": "Partido Radical",
+        "votes": 13716,
+        "percentage": 4.06,
+        "elected": false
+      },
+      {
+        "name": "Carlos Iturrieta",
+        "party": "Unión Patriótica",
+        "votes": 4170,
+        "percentage": 1.23,
+        "elected": false
+      },
+      {
+        "name": "Alejandra Sepúlveda",
+        "party": "Federación Regionalista Verde Social",
+        "votes": 120253,
+        "percentage": 35.56,
+        "elected": true
+      },
+      {
+        "name": "Pablo Dintrans",
+        "party": "Federación Regionalista Verde Social",
+        "votes": 9116,
+        "percentage": 2.7,
+        "elected": false
+      },
+      {
+        "name": "Mónica Gómez",
+        "party": "Partido Comunista",
+        "votes": 9473,
+        "percentage": 2.8,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 338185,
+      "blank_votes": 16254,
+      "null_votes": 13975,
+      "total_votes": 368414,
+      "participation_rate": 47.21
+    },
+    "escanos": 3
+  }
+]

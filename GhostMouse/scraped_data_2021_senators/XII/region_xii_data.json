@@ -1,0 +1,92 @@
+[
+  {
+    "commune": "Región de Magallanes",
+    "candidates": [
+      {
+        "name": "Juan José Arcos",
+        "party": "Partido Regionalista Independiente Demócrata",
+        "votes": 5298,
+        "percentage": 8.16,
+        "elected": false
+      },
+      {
+        "name": "Sandra Amar",
+        "party": "Independiente en cupo Unión Demócrata Independiente",
+        "votes": 4047,
+        "percentage": 6.23,
+        "elected": false
+      },
+      {
+        "name": "Alejandro Kusanovic",
+        "party": "Independiente en cupo Renovación Nacional",
+        "votes": 9282,
+        "percentage": 14.29,
+        "elected": true
+      },
+      {
+        "name": "Jesús Gutiérrez",
+        "party": "Partido de la Gente",
+        "votes": 1670,
+        "percentage": 2.57,
+        "elected": false
+      },
+      {
+        "name": "Carla Amthauer",
+        "party": "Partido de la Gente",
+        "votes": 1801,
+        "percentage": 2.77,
+        "elected": false
+      },
+      {
+        "name": "Ninén Gómez",
+        "party": "Democracia Cristiana",
+        "votes": 1248,
+        "percentage": 1.92,
+        "elected": false
+      },
+      {
+        "name": "María de los Ángeles Flores",
+        "party": "Partido Socialista",
+        "votes": 1327,
+        "percentage": 2.04,
+        "elected": false
+      },
+      {
+        "name": "Juan Márquez",
+        "party": "Independiente en cupo Partido Humanista",
+        "votes": 981,
+        "percentage": 1.51,
+        "elected": false
+      },
+      {
+        "name": "Luz Bermúdez",
+        "party": "Convergencia Social",
+        "votes": 5826,
+        "percentage": 8.97,
+        "elected": false
+      },
+      {
+        "name": "Julio Contreras",
+        "party": "Independiente en cupo Convergencia Social",
+        "votes": 2296,
+        "percentage": 3.54,
+        "elected": false
+      },
+      {
+        "name": "Karim Bianchi",
+        "party": "Independiente",
+        "votes": 31164,
+        "percentage": 47.99,
+        "elected": true
+      }
+    ],
+    "stats": {
+      "valid_votes": 64940,
+      "blank_votes": 2540,
+      "null_votes": 2442,
+      "total_votes": 69922,
+      "participation_rate": 44.12
+    },
+    "escanos": 2
+  }
+]

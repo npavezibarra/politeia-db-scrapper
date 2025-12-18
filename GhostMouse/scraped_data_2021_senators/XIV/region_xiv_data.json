@@ -1,0 +1,120 @@
+[
+  {
+    "commune": "Región de Los Ríos",
+    "candidates": [
+      {
+        "name": "Ena von Baer",
+        "party": "Unión Demócrata Independiente",
+        "votes": 16334,
+        "percentage": 10.97,
+        "elected": false
+      },
+      {
+        "name": "Margot Cárdenas",
+        "party": "Evópoli",
+        "votes": 2960,
+        "percentage": 1.99,
+        "elected": false
+      },
+      {
+        "name": "Pamela Bolbarán",
+        "party": "Partido Regionalista Independiente Demócrata",
+        "votes": 1371,
+        "percentage": 0.92,
+        "elected": false
+      },
+      {
+        "name": "María José Gatica",
+        "party": "Renovación Nacional",
+        "votes": 32437,
+        "percentage": 21.79,
+        "elected": true
+      },
+      {
+        "name": "Hilda Cerda",
+        "party": "Partido de la Gente",
+        "votes": 3191,
+        "percentage": 2.14,
+        "elected": false
+      },
+      {
+        "name": "Carmen Gloria Gárate",
+        "party": "Partido de la Gente",
+        "votes": 3705,
+        "percentage": 2.49,
+        "elected": false
+      },
+      {
+        "name": "Gustavo Dávila",
+        "party": "Partido de la Gente",
+        "votes": 2605,
+        "percentage": 1.75,
+        "elected": false
+      },
+      {
+        "name": "Luis Mauricio Proboste",
+        "party": "Partido de la Gente",
+        "votes": 2349,
+        "percentage": 1.58,
+        "elected": false
+      },
+      {
+        "name": "Alfonso de Urresti",
+        "party": "Partido Socialista",
+        "votes": 39204,
+        "percentage": 26.34,
+        "elected": true
+      },
+      {
+        "name": "Faumelisa Manquepillán",
+        "party": "Independiente en cupo Partido Socialista",
+        "votes": 3850,
+        "percentage": 2.59,
+        "elected": false
+      },
+      {
+        "name": "Sayonara Yáñez",
+        "party": "Democracia Cristiana",
+        "votes": 2305,
+        "percentage": 1.55,
+        "elected": false
+      },
+      {
+        "name": "Iván Flores",
+        "party": "Democracia Cristiana",
+        "votes": 21151,
+        "percentage": 14.21,
+        "elected": true
+      },
+      {
+        "name": "Mónica Quiroz",
+        "party": "Independiente en cupo Convergencia Social",
+        "votes": 8244,
+        "percentage": 5.54,
+        "elected": false
+      },
+      {
+        "name": "Roberto Giubergia",
+        "party": "Revolución Democrática",
+        "votes": 5476,
+        "percentage": 3.68,
+        "elected": false
+      },
+      {
+        "name": "Oscar Almazán",
+        "party": "Independiente en cupo Partido Nacional Ciudadano",
+        "votes": 3665,
+        "percentage": 2.46,
+        "elected": false
+      }
+    ],
+    "stats": {
+      "valid_votes": 148847,
+      "blank_votes": 7540,
+      "null_votes": 5700,
+      "total_votes": 162087,
+      "participation_rate": 45.91
+    },
+    "escanos": 3
+  }
+]

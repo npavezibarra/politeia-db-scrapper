@@ -1,0 +1,251 @@
+{
+  "region_code": "XII",
+  "region_name": "Distrito 283Antártica, Cabo de Hornos, Laguna Blanca, Natales, Porvenir, Primavera, Punta Arenas, Río Verde, San Gregorio, Timaukel y Torres del Paine.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 28,
+      "comunas": [
+        "Antártica",
+        "Cabo de Hornos",
+        "Laguna Blanca",
+        "Natales",
+        "Porvenir",
+        "Primavera",
+        "Punta Arenas",
+        "Río Verde",
+        "San Gregorio",
+        "Timaukel",
+        "Torres del Paine"
+      ],
+      "escaños_totales": 3,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "César Cifuentes",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.11,
+              "votos_totales": 722,
+              "electo": false
+            },
+            {
+              "nombre": "Paola Yáñez",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.2,
+              "votos_totales": 778,
+              "electo": false
+            },
+            {
+              "nombre": "Liz Casanueva",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.83,
+              "votos_totales": 1839,
+              "electo": false
+            },
+            {
+              "nombre": "Christian Matheson",
+              "partido": "EVO",
+              "condicion": "Independiente",
+              "porcentaje_votos": 11.09,
+              "votos_totales": 7212,
+              "electo": true
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Katia Trujillo",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.61,
+              "votos_totales": 1047,
+              "electo": false
+            },
+            {
+              "nombre": "Jesús Torres",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.99,
+              "votos_totales": 644,
+              "electo": false
+            },
+            {
+              "nombre": "Patricia Vivar",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.92,
+              "votos_totales": 595,
+              "electo": false
+            },
+            {
+              "nombre": "José Olivares",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.02,
+              "votos_totales": 1314,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Jaime Jelincic",
+              "partido": "PR",
+              "condicion": "Militante",
+              "porcentaje_votos": 5.0,
+              "votos_totales": 3248,
+              "electo": false
+            },
+            {
+              "nombre": "Constanza Vargas",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.12,
+              "votos_totales": 727,
+              "electo": false
+            },
+            {
+              "nombre": "Christian Gallardo",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.43,
+              "votos_totales": 930,
+              "electo": false
+            },
+            {
+              "nombre": "Vanja Rogosich",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.91,
+              "votos_totales": 1242,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AN. Dignidad Ahora",
+          "candidatos": [
+            {
+              "nombre": "Nieves Rain",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.05,
+              "votos_totales": 685,
+              "electo": false
+            },
+            {
+              "nombre": "Luis Legaza",
+              "partido": "PH",
+              "condicion": "Independiente",
+              "porcentaje_votos": 4.58,
+              "votos_totales": 2980,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AP. Frente Social Cristiano",
+          "candidatos": [
+            {
+              "nombre": "David Paillán",
+              "partido": "PCC",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.17,
+              "votos_totales": 1413,
+              "electo": false
+            },
+            {
+              "nombre": "Javiera Calvo",
+              "partido": "PCC",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.86,
+              "votos_totales": 1209,
+              "electo": false
+            },
+            {
+              "nombre": "David Romo",
+              "partido": "PCC",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.68,
+              "votos_totales": 441,
+              "electo": false
+            },
+            {
+              "nombre": "Maximiliano Cárcamo",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.51,
+              "votos_totales": 2935,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Javiera Morales",
+              "partido": "CS",
+              "condicion": "Independiente",
+              "porcentaje_votos": 6.99,
+              "votos_totales": 4543,
+              "electo": true
+            },
+            {
+              "nombre": "Doris Sandoval",
+              "partido": "CS",
+              "condicion": "Independiente",
+              "porcentaje_votos": 3.72,
+              "votos_totales": 2420,
+              "electo": false
+            },
+            {
+              "nombre": "Nikos Ortega",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.76,
+              "votos_totales": 493,
+              "electo": false
+            },
+            {
+              "nombre": "Luis Burgos",
+              "partido": "PC",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.0,
+              "votos_totales": 1300,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "IND. Independiente",
+          "candidatos": [
+            {
+              "nombre": "Carlos Bianchi",
+              "partido": "IND",
+              "condicion": "Independiente",
+              "porcentaje_votos": 40.45,
+              "votos_totales": 26297,
+              "electo": true
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 65014,
+        "votos_blancos": 2749,
+        "votos_nulos": 2251,
+        "total_sufragios": 70014
+      }
+    }
+  ]
+}

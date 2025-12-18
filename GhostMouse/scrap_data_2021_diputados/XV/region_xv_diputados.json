@@ -1,0 +1,249 @@
+{
+  "region_code": "XV",
+  "region_name": "Distrito 13Arica, Camarones, General Lagos y Putre.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 1,
+      "comunas": [
+        "Arica",
+        "Camarones",
+        "General Lagos",
+        "Putre"
+      ],
+      "escaños_totales": 3,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "Nino Baltolu",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 3.69,
+              "votos_totales": 2969,
+              "electo": false
+            },
+            {
+              "nombre": "Diego Bulnes",
+              "partido": "EVO",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.25,
+              "votos_totales": 1809,
+              "electo": false
+            },
+            {
+              "nombre": "Diego Paco",
+              "partido": "RN",
+              "condicion": "Militante",
+              "porcentaje_votos": 8.39,
+              "votos_totales": 6749,
+              "electo": false
+            },
+            {
+              "nombre": "Enrique Lee",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 9.1,
+              "votos_totales": 7321,
+              "electo": true
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Rayko Karmelic",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.76,
+              "votos_totales": 3826,
+              "electo": false
+            },
+            {
+              "nombre": "Camila Aguilar",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.04,
+              "votos_totales": 3249,
+              "electo": false
+            },
+            {
+              "nombre": "Gonzalo Campusano",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.51,
+              "votos_totales": 2021,
+              "electo": false
+            },
+            {
+              "nombre": "Benedicta Rodríguez",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.87,
+              "votos_totales": 698,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AE. Partido de Trabajadores Revolucionarios",
+          "candidatos": [
+            {
+              "nombre": "Camilo Jofré",
+              "partido": "PTR",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.87,
+              "votos_totales": 703,
+              "electo": false
+            },
+            {
+              "nombre": "Valentina Albarracín",
+              "partido": "PTR",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.86,
+              "votos_totales": 694,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Vlado Mirosevic",
+              "partido": "PL",
+              "condicion": "Militante",
+              "porcentaje_votos": 20.91,
+              "votos_totales": 16819,
+              "electo": true
+            },
+            {
+              "nombre": "Luis Malla",
+              "partido": "PL",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.36,
+              "votos_totales": 2699,
+              "electo": true
+            },
+            {
+              "nombre": "Luis Rocafull",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.89,
+              "votos_totales": 3929,
+              "electo": false
+            },
+            {
+              "nombre": "Gladys Acuña",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 6.44,
+              "votos_totales": 5181,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AN. Dignidad Ahora",
+          "candidatos": [
+            {
+              "nombre": "Juan Tancara",
+              "partido": "PH",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.16,
+              "votos_totales": 931,
+              "electo": false
+            },
+            {
+              "nombre": "Delia Condori",
+              "partido": "PH",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.14,
+              "votos_totales": 916,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AP. Frente Social Cristiano",
+          "candidatos": [
+            {
+              "nombre": "Marcelo Zara",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 7.88,
+              "votos_totales": 6336,
+              "electo": false
+            },
+            {
+              "nombre": "Karla Kepec",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.77,
+              "votos_totales": 3839,
+              "electo": false
+            },
+            {
+              "nombre": "Fidel Arenas",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.38,
+              "votos_totales": 1913,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Ricardo Sanzana",
+              "partido": "FRVS",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.14,
+              "votos_totales": 3326,
+              "electo": false
+            },
+            {
+              "nombre": "Silvia Muñoz",
+              "partido": "COM",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.05,
+              "votos_totales": 847,
+              "electo": false
+            },
+            {
+              "nombre": "Paloma Tapia",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.84,
+              "votos_totales": 3088,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AT. Nuevo Tiempo",
+          "candidatos": [
+            {
+              "nombre": "Fabián Aburto",
+              "partido": "NT",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.69,
+              "votos_totales": 553,
+              "electo": false
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 80416,
+        "votos_blancos": 2140,
+        "votos_nulos": 3251,
+        "total_sufragios": 85807
+      }
+    }
+  ]
+}

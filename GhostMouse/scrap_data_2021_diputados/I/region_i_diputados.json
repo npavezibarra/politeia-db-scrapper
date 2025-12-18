@@ -1,0 +1,231 @@
+{
+  "region_code": "I",
+  "region_name": "Distrito 23Alto Hospicio, Camiña, Colchane, Huara, Iquique, Pica y Pozo Almonte.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 2,
+      "comunas": [
+        "Alto Hospicio",
+        "Camiña",
+        "Colchane",
+        "Huara",
+        "Iquique",
+        "Pica",
+        "Pozo Almonte"
+      ],
+      "escaños_totales": 3,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "Renzo Trisotti",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 11.07,
+              "votos_totales": 11079,
+              "electo": true
+            },
+            {
+              "nombre": "Érica Paniagua",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.2,
+              "votos_totales": 1205,
+              "electo": false
+            },
+            {
+              "nombre": "Karen Heyne",
+              "partido": "EVO",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.45,
+              "votos_totales": 1455,
+              "electo": false
+            },
+            {
+              "nombre": "Ramón Galleguillos",
+              "partido": "RN",
+              "condicion": "Militante",
+              "porcentaje_votos": 9.99,
+              "votos_totales": 9992,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Carlos Mella",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.03,
+              "votos_totales": 4030,
+              "electo": false
+            },
+            {
+              "nombre": "Mario Rojas",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.61,
+              "votos_totales": 3607,
+              "electo": false
+            },
+            {
+              "nombre": "Denisse Gallegos",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 8.06,
+              "votos_totales": 8063,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Marco Pérez",
+              "partido": "PPD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 6.71,
+              "votos_totales": 6711,
+              "electo": false
+            },
+            {
+              "nombre": "Danisa Astudillo",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 7.56,
+              "votos_totales": 7565,
+              "electo": true
+            },
+            {
+              "nombre": "Eva Portales",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.64,
+              "votos_totales": 1641,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AN. Dignidad Ahora",
+          "candidatos": [
+            {
+              "nombre": "Carolina González",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.52,
+              "votos_totales": 1518,
+              "electo": false
+            },
+            {
+              "nombre": "Luis Felipe García",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.42,
+              "votos_totales": 416,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AP. Frente Social Cristiano",
+          "candidatos": [
+            {
+              "nombre": "Leonardo Solari",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 9.89,
+              "votos_totales": 9898,
+              "electo": false
+            },
+            {
+              "nombre": "Carlos Arellano",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.02,
+              "votos_totales": 2017,
+              "electo": false
+            },
+            {
+              "nombre": "Minerva Campodónico",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.58,
+              "votos_totales": 1585,
+              "electo": false
+            },
+            {
+              "nombre": "Cynthia Broudissond",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.33,
+              "votos_totales": 1326,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Matías Ramírez",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 9.86,
+              "votos_totales": 9861,
+              "electo": true
+            },
+            {
+              "nombre": "Alejandra Ceballos",
+              "partido": "COM",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.95,
+              "votos_totales": 3950,
+              "electo": false
+            },
+            {
+              "nombre": "Enzo Morales",
+              "partido": "FRVS",
+              "condicion": "Independiente",
+              "porcentaje_votos": 7.55,
+              "votos_totales": 7558,
+              "electo": false
+            },
+            {
+              "nombre": "Camila Castillo",
+              "partido": "RD",
+              "condicion": "Militante",
+              "porcentaje_votos": 5.11,
+              "votos_totales": 5112,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AT. Nuevo Tiempo",
+          "candidatos": [
+            {
+              "nombre": "Janet Órdenes",
+              "partido": "NT",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.46,
+              "votos_totales": 1464,
+              "electo": false
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 100053,
+        "votos_blancos": 4747,
+        "votos_nulos": 5423,
+        "total_sufragios": 110223
+      }
+    }
+  ]
+}

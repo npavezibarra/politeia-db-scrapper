@@ -1,0 +1,192 @@
+{
+  "region_code": "XI",
+  "region_name": "Distrito 273Aysén, Chile Chico, Cisnes, Cochrane, Coyhaique, Guaitecas, Lago Verde, O'Higgins, Río Ibáñez y Tortel.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 27,
+      "comunas": [
+        "Aysén",
+        "Chile Chico",
+        "Cisnes",
+        "Cochrane",
+        "Coyhaique",
+        "Guaitecas",
+        "Lago Verde",
+        "O'Higgins",
+        "Río Ibáñez",
+        "Tortel"
+      ],
+      "escaños_totales": 3,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "Jaime Briceño",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.81,
+              "votos_totales": 686,
+              "electo": false
+            },
+            {
+              "nombre": "Marcia Raphael",
+              "partido": "RN",
+              "condicion": "Militante",
+              "porcentaje_votos": 10.28,
+              "votos_totales": 3890,
+              "electo": true
+            },
+            {
+              "nombre": "Eugenio Canales",
+              "partido": "EVO",
+              "condicion": "Independiente",
+              "porcentaje_votos": 6.98,
+              "votos_totales": 2642,
+              "electo": false
+            },
+            {
+              "nombre": "Alejandra Valdebenito",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 9.53,
+              "votos_totales": 3608,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Juan Rubén Cárdenas",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.42,
+              "votos_totales": 536,
+              "electo": false
+            },
+            {
+              "nombre": "Nathali Roa",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.87,
+              "votos_totales": 709,
+              "electo": false
+            },
+            {
+              "nombre": "Américo Aedo",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.43,
+              "votos_totales": 161,
+              "electo": false
+            },
+            {
+              "nombre": "Karin Contreras",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.21,
+              "votos_totales": 458,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Miguel Ángel Calisto",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 25.72,
+              "votos_totales": 9738,
+              "electo": true
+            },
+            {
+              "nombre": "Rodrigo Saldivia",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.86,
+              "votos_totales": 1839,
+              "electo": false
+            },
+            {
+              "nombre": "Karina Acevedo",
+              "partido": "PR",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.4,
+              "votos_totales": 1665,
+              "electo": false
+            },
+            {
+              "nombre": "René Alinco",
+              "partido": "PPD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 12.67,
+              "votos_totales": 4798,
+              "electo": true
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Juan Catalán",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 5.37,
+              "votos_totales": 2032,
+              "electo": false
+            },
+            {
+              "nombre": "Isabel Garrido",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.76,
+              "votos_totales": 1043,
+              "electo": false
+            },
+            {
+              "nombre": "Julio Ñanco",
+              "partido": "RD",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.6,
+              "votos_totales": 1363,
+              "electo": false
+            },
+            {
+              "nombre": "Marianela Molina",
+              "partido": "RD",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.23,
+              "votos_totales": 1222,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "IND. Independiente",
+          "candidatos": [
+            {
+              "nombre": "Hansy Chávez",
+              "partido": "IND",
+              "condicion": "Independiente",
+              "porcentaje_votos": 3.87,
+              "votos_totales": 1466,
+              "electo": false
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 37856,
+        "votos_blancos": 1574,
+        "votos_nulos": 1221,
+        "total_sufragios": 40651
+      }
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "region_code": "XIV",
+  "region_name": "Distrito 245Corral, Futrono, La Unión, Lago Ranco, Lanco, Los Lagos, Máfil, Mariquina, Paillaco, Panguipulli, Río Bueno y Valdivia.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 24,
+      "comunas": [
+        "Corral",
+        "Futrono",
+        "La Unión",
+        "Lago Ranco",
+        "Lanco",
+        "Los Lagos",
+        "Máfil",
+        "Mariquina",
+        "Paillaco",
+        "Panguipulli",
+        "Río Bueno",
+        "Valdivia"
+      ],
+      "escaños_totales": 5,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "Gastón von Mühlenbrock",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 9.23,
+              "votos_totales": 13270,
+              "electo": true
+            },
+            {
+              "nombre": "María Paz Lagos",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.01,
+              "votos_totales": 2888,
+              "electo": false
+            },
+            {
+              "nombre": "Hugo Ortiz",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.03,
+              "votos_totales": 2914,
+              "electo": false
+            },
+            {
+              "nombre": "Waleska Fehrmann",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.7,
+              "votos_totales": 3888,
+              "electo": false
+            },
+            {
+              "nombre": "Soledad Cuesta",
+              "partido": "RN",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.34,
+              "votos_totales": 3366,
+              "electo": false
+            },
+            {
+              "nombre": "Bernardo Berger",
+              "partido": "RN",
+              "condicion": "Independiente",
+              "porcentaje_votos": 7.72,
+              "votos_totales": 11107,
+              "electo": true
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Tabina Manque",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.2,
+              "votos_totales": 3165,
+              "electo": false
+            },
+            {
+              "nombre": "Emma Cifuentes",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.64,
+              "votos_totales": 2364,
+              "electo": false
+            },
+            {
+              "nombre": "Diego Baeza",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.62,
+              "votos_totales": 2332,
+              "electo": false
+            },
+            {
+              "nombre": "Felipe Aranda",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.37,
+              "votos_totales": 1965,
+              "electo": false
+            },
+            {
+              "nombre": "José Miguel Barría",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.39,
+              "votos_totales": 1998,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Marcos Ilabaca",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 24.67,
+              "votos_totales": 35469,
+              "electo": true
+            },
+            {
+              "nombre": "Ana María Bravo",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.29,
+              "votos_totales": 1856,
+              "electo": true
+            },
+            {
+              "nombre": "Carlos Amtmann",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.72,
+              "votos_totales": 3916,
+              "electo": false
+            },
+            {
+              "nombre": "Marcela Suárez",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.1,
+              "votos_totales": 1578,
+              "electo": false
+            },
+            {
+              "nombre": "Daniela Asenjo",
+              "partido": "PPD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 2.79,
+              "votos_totales": 4007,
+              "electo": false
+            },
+            {
+              "nombre": "Oriana Paredes",
+              "partido": "PPD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.52,
+              "votos_totales": 747,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AN. Dignidad Ahora",
+          "candidatos": [
+            {
+              "nombre": "Luz Soto",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.8,
+              "votos_totales": 1149,
+              "electo": false
+            },
+            {
+              "nombre": "Víctor Barra",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.33,
+              "votos_totales": 475,
+              "electo": false
+            },
+            {
+              "nombre": "María Angélica Alvear",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.46,
+              "votos_totales": 659,
+              "electo": false
+            },
+            {
+              "nombre": "Pablo Cabrera",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.2,
+              "votos_totales": 285,
+              "electo": false
+            },
+            {
+              "nombre": "Teresa Almonacid",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.14,
+              "votos_totales": 205,
+              "electo": false
+            },
+            {
+              "nombre": "Margarita Morales",
+              "partido": "PH",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.4,
+              "votos_totales": 575,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AP. Frente Social Cristiano",
+          "candidatos": [
+            {
+              "nombre": "Leandro Kunstmann",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 8.94,
+              "votos_totales": 12854,
+              "electo": false
+            },
+            {
+              "nombre": "Jorge de la Maza",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.59,
+              "votos_totales": 2281,
+              "electo": false
+            },
+            {
+              "nombre": "Catherine Pacheco",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.67,
+              "votos_totales": 958,
+              "electo": false
+            },
+            {
+              "nombre": "Claudia Latorre",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.63,
+              "votos_totales": 903,
+              "electo": false
+            },
+            {
+              "nombre": "Manuel Oliva",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.4,
+              "votos_totales": 578,
+              "electo": false
+            },
+            {
+              "nombre": "Mario Hormazábal",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.24,
+              "votos_totales": 347,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Ninoska Gallardo",
+              "partido": "CS",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.8,
+              "votos_totales": 4027,
+              "electo": false
+            },
+            {
+              "nombre": "Patricio Rosas",
+              "partido": "CS",
+              "condicion": "Independiente",
+              "porcentaje_votos": 4.59,
+              "votos_totales": 6602,
+              "electo": true
+            },
+            {
+              "nombre": "Paola Nahuelhual",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 3.98,
+              "votos_totales": 5718,
+              "electo": false
+            },
+            {
+              "nombre": "Ángel Delgado",
+              "partido": "PC",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.19,
+              "votos_totales": 1715,
+              "electo": false
+            },
+            {
+              "nombre": "Sandra Cheuquepán",
+              "partido": "RD",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.19,
+              "votos_totales": 1708,
+              "electo": false
+            },
+            {
+              "nombre": "Vanessa Huaiquimilla",
+              "partido": "RD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 4.12,
+              "votos_totales": 5924,
+              "electo": false
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 143793,
+        "votos_blancos": 11420,
+        "votos_nulos": 6622,
+        "total_sufragios": 161835
+      }
+    }
+  ]
+}

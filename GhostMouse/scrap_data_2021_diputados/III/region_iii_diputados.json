@@ -1,0 +1,382 @@
+{
+  "region_code": "III",
+  "region_name": "Distrito 45Alto del Carmen, Caldera, Chañaral, Copiapó, Diego de Almagro, Freirina, Huasco, Tierra Amarilla y Vallenar.",
+  "distritos": [
+    {
+      "region": "",
+      "distrito_id": 4,
+      "comunas": [
+        "Alto del Carmen",
+        "Caldera",
+        "Chañaral",
+        "Copiapó",
+        "Diego de Almagro",
+        "Freirina",
+        "Huasco",
+        "Tierra Amarilla",
+        "Vallenar"
+      ],
+      "escaños_totales": 5,
+      "pactos": [
+        {
+          "pacto_nombre": "AA. Chile Podemos +",
+          "candidatos": [
+            {
+              "nombre": "Sofía Cid",
+              "partido": "RN",
+              "condicion": "Militante",
+              "porcentaje_votos": 5.1,
+              "votos_totales": 5041,
+              "electo": true
+            },
+            {
+              "nombre": "Raúl Ardiles",
+              "partido": "RN",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.58,
+              "votos_totales": 1557,
+              "electo": false
+            },
+            {
+              "nombre": "Manuel Corrales",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.87,
+              "votos_totales": 864,
+              "electo": false
+            },
+            {
+              "nombre": "Carolina González",
+              "partido": "PRI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.0,
+              "votos_totales": 987,
+              "electo": false
+            },
+            {
+              "nombre": "Carla Guaita",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 1.78,
+              "votos_totales": 1762,
+              "electo": false
+            },
+            {
+              "nombre": "Nicolás Noman",
+              "partido": "UDI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 4.84,
+              "votos_totales": 4781,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AB. Partido de la Gente",
+          "candidatos": [
+            {
+              "nombre": "Paula Olmos",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.39,
+              "votos_totales": 4334,
+              "electo": false
+            },
+            {
+              "nombre": "Nilsa Guzmán",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.22,
+              "votos_totales": 1201,
+              "electo": false
+            },
+            {
+              "nombre": "Cristián Custa",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.52,
+              "votos_totales": 1500,
+              "electo": false
+            },
+            {
+              "nombre": "Alex Farías",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.25,
+              "votos_totales": 1234,
+              "electo": false
+            },
+            {
+              "nombre": "Jean Pierre Varas",
+              "partido": "PDG",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.8,
+              "votos_totales": 793,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AH. Nuevo Pacto Social",
+          "candidatos": [
+            {
+              "nombre": "Daniella Cicardini",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 16.35,
+              "votos_totales": 16149,
+              "electo": true
+            },
+            {
+              "nombre": "Juan Santana",
+              "partido": "PS",
+              "condicion": "Militante",
+              "porcentaje_votos": 13.61,
+              "votos_totales": 13445,
+              "electo": true
+            },
+            {
+              "nombre": "Cristián Tapia",
+              "partido": "PPD",
+              "condicion": "Independiente",
+              "porcentaje_votos": 6.37,
+              "votos_totales": 6291,
+              "electo": true
+            },
+            {
+              "nombre": "César González",
+              "partido": "PR",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.35,
+              "votos_totales": 1331,
+              "electo": false
+            },
+            {
+              "nombre": "Gabriela Mancilla",
+              "partido": "DC",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.6,
+              "votos_totales": 591,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AL. Partido Ecologista Verde",
+          "candidatos": [
+            {
+              "nombre": "Pamela Vargas",
+              "partido": "PEV",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.98,
+              "votos_totales": 1960,
+              "electo": false
+            },
+            {
+              "nombre": "Rodrigo Pérez",
+              "partido": "PEV",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.11,
+              "votos_totales": 1096,
+              "electo": false
+            },
+            {
+              "nombre": "Marta Frez",
+              "partido": "PEV",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.39,
+              "votos_totales": 381,
+              "electo": false
+            },
+            {
+              "nombre": "Joel Moya",
+              "partido": "PEV",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.28,
+              "votos_totales": 276,
+              "electo": false
+            },
+            {
+              "nombre": "Jacqueline Quintana",
+              "partido": "PEV",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.36,
+              "votos_totales": 359,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AN. Dignidad Ahora",
+          "candidatos": [
+            {
+              "nombre": "Luis Acuña",
+              "partido": "PI",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.97,
+              "votos_totales": 959,
+              "electo": false
+            },
+            {
+              "nombre": "Mariana Piñones",
+              "partido": "PI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.53,
+              "votos_totales": 525,
+              "electo": false
+            },
+            {
+              "nombre": "Mauricio Ríos",
+              "partido": "PI",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.68,
+              "votos_totales": 671,
+              "electo": false
+            },
+            {
+              "nombre": "Yenifer Carrasco",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.45,
+              "votos_totales": 440,
+              "electo": false
+            },
+            {
+              "nombre": "Odel Soto",
+              "partido": "PH",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.09,
+              "votos_totales": 88,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AP. Frente Social Cristiano",
+          "candidatos": [
+            {
+              "nombre": "Juan Francisco Fritis",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 2.0,
+              "votos_totales": 1980,
+              "electo": false
+            },
+            {
+              "nombre": "Dalva Cepeda",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.65,
+              "votos_totales": 646,
+              "electo": false
+            },
+            {
+              "nombre": "Jonathan Gómez",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.59,
+              "votos_totales": 578,
+              "electo": false
+            },
+            {
+              "nombre": "Enrique Almeida",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.76,
+              "votos_totales": 747,
+              "electo": false
+            },
+            {
+              "nombre": "Gonzalo Tamblay",
+              "partido": "REP",
+              "condicion": "Independiente",
+              "porcentaje_votos": 0.94,
+              "votos_totales": 932,
+              "electo": false
+            },
+            {
+              "nombre": "Fresia Sepulveda",
+              "partido": "REP",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.8,
+              "votos_totales": 795,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "AR. Apruebo Dignidad",
+          "candidatos": [
+            {
+              "nombre": "Jaime Mulet",
+              "partido": "FRVS",
+              "condicion": "Militante",
+              "porcentaje_votos": 8.17,
+              "votos_totales": 8069,
+              "electo": true
+            },
+            {
+              "nombre": "Luis Marcos",
+              "partido": "FRVS",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.61,
+              "votos_totales": 603,
+              "electo": false
+            },
+            {
+              "nombre": "Lautaro Carmona",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 4.25,
+              "votos_totales": 4195,
+              "electo": false
+            },
+            {
+              "nombre": "Makarena Arias",
+              "partido": "PC",
+              "condicion": "Militante",
+              "porcentaje_votos": 1.42,
+              "votos_totales": 1402,
+              "electo": false
+            },
+            {
+              "nombre": "Inti Salamanca",
+              "partido": "COM",
+              "condicion": "Militante",
+              "porcentaje_votos": 5.53,
+              "votos_totales": 5458,
+              "electo": false
+            },
+            {
+              "nombre": "Nathalie Mery",
+              "partido": "COM",
+              "condicion": "Militante",
+              "porcentaje_votos": 0.45,
+              "votos_totales": 448,
+              "electo": false
+            }
+          ]
+        },
+        {
+          "pacto_nombre": "IND. Independiente",
+          "candidatos": [
+            {
+              "nombre": "Sebastián Carmona",
+              "partido": "IND",
+              "condicion": "Independiente",
+              "porcentaje_votos": 4.37,
+              "votos_totales": 4313,
+              "electo": false
+            }
+          ]
+        }
+      ],
+      "resumen_votacion": {
+        "votos_validos": 98782,
+        "votos_blancos": 3759,
+        "votos_nulos": 4636,
+        "total_sufragios": 107177
+      }
+    }
+  ]
+}
